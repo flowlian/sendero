@@ -855,68 +855,463 @@
     "changesText": "Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, um sie an rechtliche Anforderungen oder Änderungen unserer Leistungen anzupassen."
   },
   "agb": {
-    "title": "AGB – Reisebedingungen Pioneros 2026",
+    "title": "Allgemeine Reisebedingungen – Sendero Bike Trails",
     "metaTitle": "AGB — sendero bike trails",
     "backAriaLabel": "Zurück zur Startseite",
-    "introText": "Diese Bedingungen gelten für die Pilotreise Pioneros von 26.11. bis 04.12.2026 in der Region Eje Cafetero, Kolumbien. Ergänzend gelten die gesetzlichen Vorschriften zur Pauschalreise (§§ 651a ff. BGB).",
-    "organizerTitle": "1. Wer wir sind",
-    "organizerText": "Veranstalter ist sendero bike trails, Inhaber Julian Pérez, Berlin. Vor Ort arbeiten wir mit einem lokalen Partner zusammen, der Guides und Transport stellt. Deine Flüge nach und von Kolumbien buchst du selbst – sie sind nicht Teil der Reise.",
-    "registrationTitle": "2. Deine Anmeldung",
-    "registrationText": "Du meldest dich per E-Mail oder WhatsApp bei uns an. Verbindlich wird es, sobald du unsere Reisebestätigung per E-Mail bekommst. Bitte prüf sie kurz und sag uns sofort Bescheid, wenn etwas nicht stimmt. Meldest du weitere Personen mit an, bist du dafür verantwortlich, dass sie diese Bedingungen kennen und einverstanden sind.",
-    "paymentTitle": "3. Bezahlung",
-    "paymentText1": "Anzahlung: 20 % des Reisepreises, innerhalb von 7 Tagen nach der Reisebestätigung",
-    "paymentText2": "Restbetrag: bis zum 27.10.2026 (30 Tage vor Reisebeginn)",
-    "paymentText3": "per Überweisung auf das Konto in deiner Rechnung; Auslandsbankgebühren trägst du",
-    "paymentText4": "Dein Geld ist abgesichert: Bevor du irgendetwas zahlst, bekommst du von uns den Sicherungsschein nach § 651r BGB. Ohne Sicherungsschein verlangen wir keine Zahlung.",
-    "servicesTitle": "4. Was dich erwartet – und was sich ändern kann",
-    "servicesText1": "Was inklusive ist, steht in der Pioneros-Präsentation und in deiner Reisebestätigung. Kilometer und Höhenmeter sind Richtwerte.",
-    "servicesText2": "Kolumbien ist lebendig: Manchmal sind Wege nach Regen nicht fahrbar oder es passiert vor Ort etwas Unerwartetes. Dann passen wir Route, Etappen oder Tagesablauf an – der Charakter der Reise bleibt. Ändert sich etwas Wesentliches erheblich, kannst du kostenlos zurücktreten.",
-    "servicesText3": "Der Preis steht fest: Nach deiner Buchung erhöhen wir ihn nicht mehr.",
-    "withdrawalTitle": "5. Wenn du absagen musst",
-    "withdrawalText1": "Du kannst jederzeit vor Reisebeginn zurücktreten, am besten per E-Mail. Es zählt, wann deine Nachricht bei uns ankommt. Weil wir Unterkünfte, Guides und Transport vorab buchen, berechnen wir dann eine Entschädigung:",
-    "withdrawalTableHeader1": "Deine Absage kommt an …",
-    "withdrawalTableHeader2": "Entschädigung vom Reisepreis",
-    "withdrawalRow1Label": "bis 30 Tage vor Reisebeginn",
-    "withdrawalRow1Value": "50 %",
-    "withdrawalRow2Label": "29 bis 15 Tage vorher",
-    "withdrawalRow2Value": "70 %",
-    "withdrawalRow3Label": "14 bis 1 Tag vorher",
-    "withdrawalRow3Value": "85 %",
-    "withdrawalRow4Label": "am Reisetag oder du kommst nicht",
-    "withdrawalRow4Value": "90 %",
-    "withdrawalText2": "Ist unser Schaden nachweislich geringer, zahlst du weniger. Statt abzusagen kannst du deinen Platz auch bis 7 Tage vor Reisebeginn an jemanden abgeben, der die gleichen Voraussetzungen erfüllt – sag uns einfach per E-Mail Bescheid.",
-    "withdrawalText3": "Gibt es für die Region eine Reisewarnung des Auswärtigen Amtes oder eine Naturkatastrophe, kannst du kostenlos zurücktreten.",
-    "withdrawalText4": "Tipp: Eine Reiserücktrittsversicherung kostet wenig und deckt viele dieser Fälle ab.",
-    "cancellationByOperatorTitle": "6. Wenn wir absagen müssen",
-    "cancellationByOperatorText1": "Sind bis zum 05.11.2026 weniger als 3 Teilnehmende fest angemeldet, können wir die Reise absagen. Das gilt auch, wenn außergewöhnliche Umstände die Reise unmöglich machen (z. B. Reisewarnung, Naturkatastrophe). Du bekommst dann alles, was du gezahlt hast, innerhalb von 14 Tagen zurück.",
-    "cancellationByOperatorText2": "Wenn jemand die Gruppe trotz Gespräch nachhaltig stört oder gefährdet, können wir die Reise für diese Person beenden. Der Reisepreis wird dann abzüglich ersparter Kosten nicht erstattet.",
-    "healthSafetyTitle": "7. Deine Gesundheit und Sicherheit",
-    "healthSafetyText1": "Teilnehmerfragebogen: Bitte füll ihn vollständig und ehrlich aus – Gesundheit, Fitness, Fahrkönnen, Notfallkontakt. So können wir die Touren auf die Gruppe abstimmen und im Notfall richtig reagieren. Ändert sich danach etwas Wichtiges, sag uns bitte sofort Bescheid.",
-    "healthSafetyText2": "Fitness: Prüf selbst, ob die Etappen, Höhenmeter und die Höhenlage zu dir passen. Wir sind keine Ärzte – bei Vorerkrankungen oder Unsicherheit sprich vorher kurz mit deiner Ärztin oder deinem Arzt.",
-    "healthSafetyText3": "Helm ist Pflicht bei jeder Ausfahrt, Handschuhe ebenso. Ohne Helm kannst du leider nicht mitfahren.",
-    "healthSafetyText4": "Unsere Guides haben das letzte Wort, wenn es um Sicherheit geht: Route, Tempo, schieben statt fahren. Wenn du erkennbar überfordert, krank, verletzt oder angetrunken bist, setzt du eine Etappe aus und fährst, wenn möglich, im Begleitfahrzeug mit. Eine Erstattung gibt es dafür nicht.",
-    "healthSafetyText5": "Restrisiko: Mountainbiken bleibt ein Sport mit Sturzrisiko – überall auf der Welt. Du fährst im Rahmen deines Könnens und wählst Tempo und Linie selbst. Für unsere eigenen Fehler stehen wir natürlich trotzdem ein.",
-    "bikesTitle": "8. Dein Fahrrad",
-    "bikesText1": "Ein Mountainbike (Fully) in deiner Größe ist inklusive. Kratzer, Verschleiß und typische Stürze sind unser Thema, nicht deins. Nur wenn du das Rad vorsätzlich oder grob fahrlässig beschädigst, zahlst du den Schaden voll; bei leichter Unachtsamkeit höchstens 300 €.",
-    "bikesText2": "Du willst dein eigenes Rad mitbringen? Gern – sag uns bis zum 27.10.2026 Bescheid. Es muss technisch in Ordnung und für Trails geeignet sein. Für Transport und Schäden an deinem eigenen Rad bist du selbst verantwortlich, außer wir haben sie verursacht. Eine Fahrradversicherung lohnt sich.",
-    "insuranceTitle": "9. Versicherungen",
-    "insuranceText1": "Im Reisepreis ist keine Versicherung enthalten.",
-    "insuranceText2": "Pflicht: eine Auslandsreisekrankenversicherung, die Behandlung in Kolumbien, Rettung und Rücktransport abdeckt und Mountainbiken nicht ausschließt. Versicherer und Notrufnummer trägst du im Fragebogen ein.",
-    "insuranceText3": "Empfohlen: Reiserücktritts- und Reiseabbruchversicherung, Unfallversicherung für Sport, Gepäck- und Fahrradversicherung. Viele Kreditkarten haben schon einen Teil davon – prüf das mal.",
-    "liabilityTitle": "10. Haftung",
-    "liabilityText1": "Für Sachschäden, die wir weder vorsätzlich noch grob fahrlässig verursacht haben, haften wir bis zum dreifachen Reisepreis – das ist der gesetzliche Rahmen. Für Verletzungen von Leben, Körper und Gesundheit haften wir nach dem Gesetz, ohne Einschränkung. Für Unternehmungen, die du auf eigene Faust außerhalb des Programms machst, sind wir nicht verantwortlich.",
-    "liabilityText2": "Wenn unterwegs etwas nicht stimmt, sag es bitte sofort Julian oder den Guides – dann können wir es noch lösen. Um Reisepass und Impfungen kümmerst du dich selbst; wir schicken dir vorab die wichtigsten Hinweise.",
-    "mediaDataTitle": "11. Deine Daten und Fotos",
-    "mediaDataText1": "Deine Daten nutzen wir nur, um die Reise zu organisieren. Weitergegeben werden sie nur, wo nötig – an unsere Partner vor Ort (Unterkunft, Guides, Transport). Deine Gesundheitsangaben aus dem Fragebogen verwenden wir nur mit deiner ausdrücklichen Einwilligung, nur für Sicherheit und Notfälle, und löschen sie spätestens 3 Monate nach der Reise.",
-    "mediaDataText2": "Ein Fotograf begleitet uns an einzelnen Streckenpunkten. Alle Fotos bekommst du für dich privat. Für Website und Social Media nutzen wir Bilder, auf denen du zu erkennen bist, nur mit deiner Zustimmung – und die kannst du jederzeit zurückziehen.",
-    "finalTitle": "12. Zum Schluss",
-    "finalText1": "Es gilt deutsches Recht; Gerichtsstand für Klagen gegen sendero bike trails ist Berlin.",
-    "finalText2": "Ansprüche verjähren zwei Jahre nach Reiseende.",
-    "finalText3": "An Verbraucherschlichtungsverfahren nehmen wir nicht teil.",
-    "finalText4": "Ist eine Regel unwirksam, gilt der Rest trotzdem.",
-    "finalText5": "Diese Bedingungen sind das rechtliche Fundament – aber Pioneros ist vor allem eine gemeinsame Reise. Wenn etwas nicht passt, reden wir miteinander.",
-    "contactTitle": "Kontakt",
-    "lastUpdated": "Stand: Oktober 2026"
+    "notice": {
+      "title": "Hinweis: Vorläufige Fassung",
+      "text": "Diese Reisebedingungen werden derzeit rechtlich und von unseren Versicherungspartnern geprüft und können sich noch ändern. Verbindlich ist die Fassung, die du mit deiner Reisebestätigung erhältst. Fragen? Schreib uns an julian@senderobiketrails.com."
+    },
+    "scope": {
+      "title": "Geltungsbereich",
+      "paragraphs": [
+        "Diese Reisebedingungen werden, soweit wirksam vereinbart, Inhalt des Pauschalreisevertrages zwischen dem Kunden (nachfolgend „Reisender“) und Sendero Bike Trails, Inhaber Julian David Perez Rodriguez (nachfolgend „Sendero“). Sie ergänzen die gesetzlichen Vorschriften der §§ 651a–y BGB sowie der Art. 250 und 252 EGBGB und füllen diese aus.",
+        "Sie gelten für alle von Sendero ausgeschriebenen Gruppenreisen sowie für individuell angebotene Privatgruppen-Reisen. Abweichende Vereinbarungen für Privatgruppen werden im jeweiligen Angebot und in der Reisebestätigung ausdrücklich genannt.",
+        "Die Reisen von Sendero beinhalten keine Flugbeförderung von und nach Kolumbien. Die An- und Abreise organisiert der Reisende selbst; sie ist nicht Bestandteil des Pauschalreisevertrages.",
+        "Vor der Buchung erhält der Reisende das gesetzlich vorgeschriebene Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise (Art. 250 § 2 EGBGB) sowie die vorvertraglichen Informationen nach Art. 250 § 3 EGBGB."
+      ]
+    },
+    "sections": [
+      {
+        "title": "1. Abschluss des Pauschalreisevertrages",
+        "clauses": [
+          {
+            "number": "1.1",
+            "text": "Grundlage des Angebots sind die Reiseausschreibung auf senderobiketrails.com, in Präsentationen oder Broschüren von Sendero oder ein individuelles Angebot, jeweils zusammen mit den ergänzenden Informationen, soweit diese dem Reisenden bei Buchung vorliegen."
+          },
+          {
+            "number": "1.2",
+            "text": "Mit der Buchung (Reiseanmeldung) per Buchungsformular, E-Mail oder in Textform bietet der Reisende Sendero den Abschluss des Pauschalreisevertrages verbindlich an. Wer für weitere Teilnehmer bucht, steht für deren Vertragsverpflichtungen wie für seine eigenen ein, sofern er diese Verpflichtung ausdrücklich und gesondert übernommen hat."
+          },
+          {
+            "number": "1.3",
+            "text": "Der Vertrag kommt mit Zugang der Reisebestätigung von Sendero zustande. Die Reisebestätigung wird auf einem dauerhaften Datenträger (z. B. als PDF per E-Mail) übermittelt."
+          },
+          {
+            "number": "1.4",
+            "text": "Weicht die Reisebestätigung von der Buchung ab, liegt ein neues Angebot vor, an das Sendero zehn Tage gebunden ist. Der Vertrag kommt auf dessen Grundlage zustande, wenn Sendero auf die Änderung hingewiesen hat und der Reisende innerhalb der Frist ausdrücklich oder durch Anzahlung zustimmt."
+          },
+          {
+            "number": "1.5",
+            "text": "Teilnehmen können Personen ab 18 Jahren. Minderjährige nur nach gesonderter Vereinbarung und in Begleitung eines Sorgeberechtigten."
+          },
+          {
+            "number": "1.6",
+            "text": "Ein gesetzliches Widerrufsrecht besteht bei Pauschalreisen, die im Fernabsatz (Telefon, E-Mail, Website) gebucht werden, nicht (§ 312 Abs. 7 BGB). Das gesetzliche Rücktrittsrecht nach Ziffer 5 bleibt unberührt."
+          }
+        ]
+      },
+      {
+        "title": "2. Bezahlung",
+        "clauses": [
+          {
+            "number": "2.1",
+            "text": "Zahlungen auf den Reisepreis vor Reiseende werden nur gegen Übergabe des Sicherungsscheins (§ 651r BGB) in Textform gefordert oder angenommen."
+          },
+          {
+            "number": "2.2",
+            "text": "Nach Vertragsschluss und Erhalt des Sicherungsscheins wird eine Anzahlung von 20 % des Reisepreises innerhalb von 7 Tagen fällig."
+          },
+          {
+            "number": "2.3",
+            "text": "Die Restzahlung ist 30 Tage vor Reisebeginn fällig. Steht die Reise noch unter dem Vorbehalt der Mindestteilnehmerzahl (Ziffer 8.1), wird die Restzahlung erst fällig, wenn Sendero die Reise nicht mehr aus diesem Grund absagen kann oder die Durchführung bestätigt hat."
+          },
+          {
+            "number": "2.4",
+            "text": "Bei Buchung innerhalb von 30 Tagen vor Reisebeginn ist der gesamte Reisepreis nach Erhalt des Sicherungsscheins sofort fällig."
+          },
+          {
+            "number": "2.5",
+            "text": "Zahlungen erfolgen per Überweisung auf das in der Rechnung angegebene Konto oder über einen von Sendero bereitgestellten Zahlungslink. Bankgebühren aus Auslandsüberweisungen trägt der Reisende."
+          },
+          {
+            "number": "2.6",
+            "text": "Leistet der Reisende An- oder Restzahlung trotz übergebenem Sicherungsschein nicht fristgerecht, kann Sendero nach Mahnung mit Fristsetzung vom Vertrag zurücktreten und eine Entschädigung gemäß Ziffer 5.3 verlangen, sofern kein zum Rücktritt berechtigender Reisemangel vorliegt."
+          },
+          {
+            "number": "2.7",
+            "text": "Ohne vollständige Zahlung besteht kein Anspruch auf Reiseunterlagen und Reiseleistungen."
+          }
+        ]
+      },
+      {
+        "title": "3. Leistungen und Leistungsänderungen",
+        "clauses": [
+          {
+            "number": "3.1",
+            "text": "Der Leistungsumfang ergibt sich aus der Reisebestätigung in Verbindung mit der zum Zeitpunkt der Buchung gültigen Reiseausschreibung und den vorvertraglichen Informationen. Angaben zu Etappen, Kilometern, Höhenmetern und Trailcharakter sind Richtwerte."
+          },
+          {
+            "number": "3.2",
+            "text": "Leistungsträger vor Ort (z. B. Unterkünfte, Transportunternehmen, lokale Guides) sind nicht bevollmächtigt, Zusicherungen zu geben, die vom bestätigten Vertragsinhalt abweichen."
+          },
+          {
+            "number": "3.3",
+            "text": "Änderungen einzelner Reiseleistungen nach Vertragsschluss, die Sendero nicht wider Treu und Glauben herbeigeführt hat, sind zulässig, soweit sie unerheblich sind und den Gesamtzuschnitt der Reise nicht beeinträchtigen. Dazu zählen insbesondere Anpassungen der Routenführung, Tagesetappen oder Reihenfolge des Programms aufgrund von Wetter, Trail- und Straßenzustand, Sicherheitslage oder Fitness der Gruppe, der Austausch einer Unterkunft durch eine gleichwertige sowie der Einsatz eines anderen qualifizierten Guides. Sendero informiert den Reisenden vor Reisebeginn auf einem dauerhaften Datenträger klar und verständlich über solche Änderungen."
+          },
+          {
+            "number": "3.4",
+            "text": "Bei einer erheblichen Änderung einer wesentlichen Reiseleistung kann der Reisende innerhalb einer von Sendero gesetzten angemessenen Frist die Änderung annehmen, unentgeltlich vom Vertrag zurücktreten oder eine angebotene Ersatzreise wählen. Reagiert er nicht fristgerecht, gilt die Änderung als angenommen. Hierauf wird er in der Mitteilung hingewiesen."
+          },
+          {
+            "number": "3.5",
+            "text": "Gewährleistungsansprüche bleiben unberührt. Ist die geänderte Reise oder Ersatzreise nicht gleichwertig, wird der Reisepreis nach § 651m BGB gemindert."
+          }
+        ]
+      },
+      {
+        "title": "4. Preisänderungen",
+        "clauses": [
+          {
+            "number": "4.1",
+            "text": "Sendero behält sich vor, den Reisepreis nach Vertragsschluss zu erhöhen, soweit sich dies unmittelbar ergibt aus: (a) einer Erhöhung der Treibstoffkosten für die Beförderung vor Ort, (b) einer Erhöhung von Steuern und Abgaben (z. B. Tourismus-, Park- oder Eintrittsgebühren) oder (c) einer Änderung des Wechselkurses zwischen Euro und Kolumbianischem Peso (COP), soweit Leistungen in COP eingekauft werden."
+          },
+          {
+            "number": "4.2",
+            "text": "Die Erhöhung entspricht dem auf den einzelnen Reisenden entfallenden Anteil der Mehrkosten. Sendero teilt sie spätestens 20 Tage vor Reisebeginn auf einem dauerhaften Datenträger mit Begründung und Berechnung mit."
+          },
+          {
+            "number": "4.3",
+            "text": "Der Reisende kann eine Senkung des Reisepreises verlangen, wenn sich die in 4.1 genannten Kosten nach Vertragsschluss verringern und dies zu niedrigeren Kosten für Sendero führt."
+          },
+          {
+            "number": "4.4",
+            "text": "Bei einer Preiserhöhung um mehr als 8 % kann der Reisende innerhalb einer von Sendero gesetzten angemessenen Frist unentgeltlich vom Vertrag zurücktreten oder eine Ersatzreise wählen. Reagiert er nicht fristgerecht, gilt die Erhöhung als angenommen."
+          }
+        ]
+      },
+      {
+        "title": "5. Rücktritt durch den Reisenden vor Reisebeginn, Ersatzperson",
+        "clauses": [
+          {
+            "number": "5.1",
+            "text": "Der Reisende kann jederzeit vor Reisebeginn vom Vertrag zurücktreten. Der Rücktritt ist gegenüber Sendero unter den unten angegebenen Kontaktdaten zu erklären, empfohlen in Textform (E-Mail). Maßgeblich ist der Zugang bei Sendero."
+          },
+          {
+            "number": "5.2",
+            "text": "Tritt der Reisende zurück oder tritt er die Reise nicht an, verliert Sendero den Anspruch auf den Reisepreis und kann stattdessen eine angemessene Entschädigung verlangen. Dies gilt nicht, wenn Sendero den Rücktritt zu vertreten hat oder am Bestimmungsort oder in dessen unmittelbarer Nähe unvermeidbare, außergewöhnliche Umstände auftreten, die die Durchführung der Reise erheblich beeinträchtigen (z. B. eine Reisewarnung des Auswärtigen Amtes für die Reiseregion, Naturkatastrophen, schwere Unruhen)."
+          },
+          {
+            "number": "5.3",
+            "text": "Die Entschädigung ist unter Berücksichtigung ersparter Aufwendungen und der gewöhnlich möglichen anderweitigen Verwendung der Reiseleistungen wie folgt pauschaliert (je Person, in % des Reisepreises):",
+            "tableHeaders": [
+              "Rücktritt",
+              "Entschädigung"
+            ],
+            "table": [
+              {
+                "label": "bis 90 Tage vor Reisebeginn",
+                "value": "20 %"
+              },
+              {
+                "label": "89. bis 60. Tag vor Reisebeginn",
+                "value": "30 %"
+              },
+              {
+                "label": "59. bis 30. Tag vor Reisebeginn",
+                "value": "50 %"
+              },
+              {
+                "label": "29. bis 15. Tag vor Reisebeginn",
+                "value": "70 %"
+              },
+              {
+                "label": "14. bis 1. Tag vor Reisebeginn",
+                "value": "85 %"
+              },
+              {
+                "label": "am Tag des Reisebeginns oder Nichtantritt",
+                "value": "90 %"
+              }
+            ]
+          },
+          {
+            "number": "5.4",
+            "text": "Dem Reisenden bleibt der Nachweis unbenommen, dass Sendero kein oder ein wesentlich geringerer Schaden entstanden ist. Sendero kann statt der Pauschale eine höhere, konkret berechnete Entschädigung verlangen, wenn wesentlich höhere Aufwendungen nachgewiesen werden; diese ist dann konkret zu beziffern und zu begründen."
+          },
+          {
+            "number": "5.5",
+            "text": "Muss Sendero infolge des Rücktritts Zahlungen erstatten, erfolgt die Erstattung unverzüglich, spätestens innerhalb von 14 Tagen nach dem Rücktritt."
+          },
+          {
+            "number": "5.6",
+            "text": "Der Abschluss einer Reiserücktrittskosten- und Reiseabbruchversicherung wird dringend empfohlen (siehe Ziffer 12)."
+          },
+          {
+            "number": "5.7",
+            "text": "Der Reisende kann bis spätestens 7 Tage vor Reisebeginn auf einem dauerhaften Datenträger erklären, dass eine Ersatzperson an seiner Stelle teilnimmt (§ 651e BGB). Sendero kann widersprechen, wenn die Ersatzperson die Teilnahmevoraussetzungen nach Ziffer 9 nicht erfüllt. Reisender und Ersatzperson haften als Gesamtschuldner für den Reisepreis und die tatsächlich entstandenen Mehrkosten; Sendero weist diese nach."
+          }
+        ]
+      },
+      {
+        "title": "6. Umbuchungen",
+        "clauses": [
+          {
+            "number": "6.1",
+            "text": "Ein Anspruch auf Änderung von Reisetermin, Reiseverlauf, Unterkunft oder Leistungsumfang nach Vertragsschluss (Umbuchung) besteht nicht. Ausgenommen sind Umbuchungen, die wegen unvollständiger oder fehlerhafter vorvertraglicher Informationen nötig werden; diese sind kostenfrei."
+          },
+          {
+            "number": "6.2",
+            "text": "Nimmt Sendero auf Wunsch des Reisenden bis zum 60. Tag vor Reisebeginn dennoch eine Umbuchung auf einen anderen Termin vor, wird ein Umbuchungsentgelt von 75 € je Person erhoben, zuzüglich etwaiger Mehrkosten bei Leistungsträgern. Ab dem 59. Tag vor Reisebeginn ist eine Umbuchung nur durch Rücktritt zu den Bedingungen der Ziffer 5.3 und Neubuchung möglich."
+          }
+        ]
+      },
+      {
+        "title": "7. Nicht in Anspruch genommene Leistungen",
+        "clauses": [
+          {
+            "text": "Nimmt der Reisende einzelne ordnungsgemäß angebotene Leistungen aus Gründen, die er zu vertreten hat, nicht in Anspruch (z. B. vorzeitige Abreise, Auslassen von Etappen, Ausschluss nach Ziffer 9.5), besteht kein Anspruch auf anteilige Erstattung. Sendero bemüht sich um Erstattung ersparter Aufwendungen durch die Leistungsträger, außer bei völlig unerheblichen Leistungen."
+          }
+        ]
+      },
+      {
+        "title": "8. Rücktritt und Kündigung durch Sendero",
+        "clauses": [
+          {
+            "number": "8.1",
+            "lead": "Mindestteilnehmerzahl",
+            "text": "Sendero kann vom Vertrag zurücktreten, wenn die in der Reiseausschreibung und der Reisebestätigung genannte Mindestteilnehmerzahl nicht erreicht wird. Sofern dort nicht anders angegeben, beträgt sie 4 Reisende. Der Rücktritt ist spätestens 30 Tage vor Reisebeginn zu erklären. Ist früher absehbar, dass die Zahl nicht erreicht wird, informiert Sendero unverzüglich. Geleistete Zahlungen werden innerhalb von 14 Tagen erstattet. Sendero kann alternativ die Durchführung zu einem angepassten Preis oder eine Ersatzreise anbieten; der Reisende ist nicht verpflichtet, dies anzunehmen."
+          },
+          {
+            "number": "8.2",
+            "lead": "Unvermeidbare, außergewöhnliche Umstände",
+            "text": "Ist Sendero aufgrund solcher Umstände an der Durchführung gehindert (z. B. Reisewarnung, schwere Sicherheitsvorfälle, Naturereignisse, Ausfall der Infrastruktur in der Region), kann Sendero vor Reisebeginn zurücktreten. Der Rücktritt wird unverzüglich nach Kenntnis erklärt; Zahlungen werden innerhalb von 14 Tagen erstattet."
+          },
+          {
+            "number": "8.3",
+            "lead": "Kündigung aus verhaltensbedingten Gründen",
+            "text": "Sendero kann den Vertrag ohne Frist kündigen, wenn der Reisende die Durchführung der Reise ungeachtet einer Abmahnung nachhaltig stört, Sicherheitsanweisungen der Reiseleitung wiederholt oder grob missachtet oder sich so vertragswidrig verhält, dass die sofortige Aufhebung gerechtfertigt ist. Sendero behält dann den Anspruch auf den Reisepreis abzüglich ersparter Aufwendungen und erlangter Vorteile. Mehrkosten der Rückreise trägt der Reisende."
+          }
+        ]
+      },
+      {
+        "title": "9. Besondere Bedingungen für geführte Mountainbike-Touren",
+        "clauses": [
+          {
+            "number": "9.1",
+            "lead": "Anforderungsprofil",
+            "text": "Jede Reise ist in der Ausschreibung mit Angaben zu Fahrtechnik, Kondition, Tagesdistanzen, Höhenmetern und Höhenlage (teils über 2.500 m) beschrieben. Der Reisende prüft vor der Buchung eigenverantwortlich, ob er diese Anforderungen erfüllt, und berät sich im Zweifel mit Sendero."
+          },
+          {
+            "number": "9.2",
+            "lead": "Gesundheit und Selbstauskunft",
+            "text": "Der Reisende bestätigt mit der Buchung, dass er gesundheitlich für die gebuchte Reise geeignet ist. Vor Reisebeginn füllt er einen Teilnehmerfragebogen zu Fahrkönnen, relevanten Vorerkrankungen, Allergien, Medikamenten und einem Notfallkontakt aus. Bei Vorerkrankungen oder längerer Trainingspause wird eine ärztliche Untersuchung vor Reiseantritt empfohlen. Ändert sich der Gesundheitszustand nach Buchung wesentlich, informiert der Reisende Sendero unverzüglich."
+          },
+          {
+            "number": "9.3",
+            "lead": "Sicherheitsausrüstung",
+            "text": "Auf allen Fahrten gilt Helmpflicht. Handschuhe und geeignetes Schuhwerk sind Pflicht; Protektoren werden empfohlen bzw. in der Ausschreibung vorgeschrieben. Ohne Helm ist eine Teilnahme an der jeweiligen Etappe nicht möglich."
+          },
+          {
+            "number": "9.4",
+            "lead": "Weisungen der Reiseleitung",
+            "text": "Die Guides von Sendero und seiner Partner vor Ort sind berechtigt, aus Sicherheitsgründen Routen zu ändern, Abschnitte zu verkürzen, Trails zu umfahren, Pausen anzuordnen oder einzelne Passagen schieben zu lassen. Ihre Anweisungen zu Fahrweise, Gruppenabständen und Verhalten im Straßenverkehr sind zu befolgen. Im Straßenverkehr gelten die kolumbianischen Verkehrsregeln."
+          },
+          {
+            "number": "9.5",
+            "lead": "Ausschluss von einzelnen Etappen",
+            "text": "Ist ein Reisender nach Einschätzung der Reiseleitung erkennbar überfordert, erkrankt, verletzt, alkoholisiert oder ohne die vorgeschriebene Ausrüstung, kann er zu seiner und zur Sicherheit der Gruppe von einzelnen Etappen ausgeschlossen werden. Sendero bietet in diesem Fall, soweit möglich, einen Transfer im Begleitfahrzeug zum Tagesziel an. Eine Erstattung erfolgt nur nach Ziffer 7."
+          },
+          {
+            "number": "9.6",
+            "lead": "Eigenverantwortung und Restrisiko",
+            "text": "Mountainbiken im Gelände ist mit sportarttypischen Risiken verbunden (z. B. Stürze, wechselnde Untergründe, Witterung, Tiere, Gegenverkehr auf Wegen). Der Reisende fährt im Rahmen seines Könnens und wählt Tempo und Linie selbst. Diese Regelung schränkt die Haftung von Sendero für eigene Pflichtverletzungen, insbesondere Organisations- und Aufsichtspflichten, nicht ein."
+          }
+        ]
+      },
+      {
+        "title": "10. Fahrräder",
+        "clauses": [
+          {
+            "number": "10.1",
+            "lead": "Leihrad inklusive",
+            "text": "Im Reisepreis ist ein Mountainbike (Fully) in der mit dem Reisenden abgestimmten Rahmengröße inklusive Wartung während der Reise enthalten, sofern in der Ausschreibung nicht anders angegeben. Das Rad wird bei Reisebeginn in technisch einwandfreiem Zustand mit kurzem Übergabeprotokoll übergeben. Pedale und Sattel kann der Reisende nach Absprache selbst mitbringen."
+          },
+          {
+            "number": "10.2",
+            "lead": "Sorgfaltspflichten",
+            "text": "Der Reisende behandelt das Leihrad pfleglich, meldet Schäden oder Mängel unverzüglich dem Guide und sichert es bei Pausen nach dessen Anweisung. Normaler Verschleiß geht zu Lasten von Sendero."
+          },
+          {
+            "number": "10.3",
+            "lead": "Haftung für Schäden am Leihrad",
+            "text": "Für Beschädigung oder Verlust, die über normalen Verschleiß hinausgehen, haftet der Reisende bei Vorsatz und grober Fahrlässigkeit in voller Höhe der Reparaturkosten bzw. des Zeitwerts. Bei leichter Fahrlässigkeit ist die Haftung auf 300 € je Schadensfall begrenzt. Schäden durch sportarttypische Stürze bei bestimmungsgemäßem Gebrauch gelten nicht als fahrlässig verursacht."
+          },
+          {
+            "number": "10.4",
+            "lead": "Eigenes Fahrrad",
+            "text": "Der Reisende kann statt des Leihrads sein eigenes Mountainbike mitbringen. Dies ist bei der Buchung bzw. spätestens 30 Tage vor Reisebeginn anzugeben. Eine Reduzierung des Reisepreises erfolgt nur, wenn sie in der Ausschreibung ausgewiesen ist. Das Rad muss für die ausgeschriebenen Trails geeignet und technisch einwandfrei sein; die Reiseleitung kann ein nicht verkehrs- oder betriebssicheres Rad zurückweisen und, soweit verfügbar, ein Leihrad stellen."
+          },
+          {
+            "number": "10.5",
+            "text": "Transport, Verpackung und Versicherung des eigenen Rads auf An- und Abreise sowie Schäden, Verlust oder Diebstahl während der Reise liegen in der Verantwortung des Reisenden, soweit Sendero nicht eine Pflichtverletzung zu vertreten hat. Kleinere Reparaturen durch die Begleitung erfolgen ohne Gewähr; Ersatzteile werden zum Selbstkostenpreis berechnet. Der Abschluss einer Fahrrad- bzw. Reisegepäckversicherung wird empfohlen."
+          }
+        ]
+      },
+      {
+        "title": "11. Mitwirkungspflichten des Reisenden",
+        "clauses": [
+          {
+            "number": "11.1",
+            "lead": "Reiseunterlagen",
+            "text": "Die Reiseunterlagen (Treffpunkt, Ablaufplan, Notfallkontakte) werden nach vollständiger Zahlung in der Regel 14 Tage vor Reisebeginn per E-Mail versandt. Erhält der Reisende sie nicht rechtzeitig, informiert er Sendero."
+          },
+          {
+            "number": "11.2",
+            "lead": "Anreise",
+            "text": "Der Reisende ist selbst dafür verantwortlich, rechtzeitig zum in der Reisebestätigung genannten Treffpunkt bzw. Flughafentransfer (z. B. Pereira) zu erscheinen. Sendero empfiehlt, Flüge erst nach Bestätigung der Durchführung (Ziffer 8.1) bzw. mit flexiblem Tarif zu buchen. Verspätet sich die Anreise, trägt der Reisende Mehrkosten eines gesonderten Transfers; Sendero haftet nicht für Kosten selbst gebuchter Flüge."
+          },
+          {
+            "number": "11.3",
+            "lead": "Mängelanzeige",
+            "text": "Der Reisende hat einen Reisemangel unverzüglich der Reiseleitung vor Ort bzw., falls nicht erreichbar, Sendero direkt anzuzeigen und Abhilfe zu verlangen. Unterlässt er dies schuldhaft und konnte Sendero deshalb keine Abhilfe schaffen, stehen ihm insoweit keine Minderungs- (§ 651m BGB) oder Schadensersatzansprüche (§ 651n BGB) zu. Die Reiseleitung ist nicht befugt, Ansprüche anzuerkennen."
+          },
+          {
+            "number": "11.4",
+            "lead": "Fristsetzung vor Kündigung",
+            "text": "Will der Reisende wegen eines erheblichen Mangels kündigen (§ 651l BGB), hat er Sendero zuvor eine angemessene Frist zur Abhilfe zu setzen, es sei denn, Abhilfe ist unmöglich, wird verweigert oder ist sofort notwendig."
+          },
+          {
+            "number": "11.5",
+            "lead": "Gepäck",
+            "text": "Schäden an oder Verlust von Gepäck und Fahrrad im Flugverkehr sind der Fluggesellschaft unverzüglich vor Ort mittels Schadensanzeige (P.I.R.) zu melden – bei Beschädigung binnen 7 Tagen, bei Verspätung binnen 21 Tagen."
+          }
+        ]
+      },
+      {
+        "title": "12. Versicherungen",
+        "clauses": [
+          {
+            "number": "12.1",
+            "text": "Im Reisepreis sind keine Versicherungen für den Reisenden enthalten."
+          },
+          {
+            "number": "12.2",
+            "lead": "Pflicht",
+            "text": "Jeder Reisende muss eine Auslandsreisekrankenversicherung abschließen, die medizinische Behandlung in Kolumbien, Bergung und Rettung sowie den medizinisch sinnvollen Rücktransport nach Deutschland einschließt und Radsport/Mountainbiken nicht ausschließt. Der Nachweis (Name des Versicherers, Policennummer, Notrufnummer) ist mit dem Teilnehmerfragebogen spätestens 14 Tage vor Reisebeginn vorzulegen. Ohne Nachweis kann Sendero die Teilnahme an den Etappen verweigern; Ziffer 7 gilt entsprechend."
+          },
+          {
+            "number": "12.3",
+            "lead": "Empfehlung",
+            "text": "Sendero empfiehlt dringend eine Reiserücktrittskosten- und Reiseabbruchversicherung, eine private Unfall- und Haftpflichtversicherung, die Radsport im Ausland abdeckt, sowie eine Reisegepäck- bzw. Fahrradversicherung."
+          },
+          {
+            "number": "12.4",
+            "text": "Sendero unterhält eine Reiseveranstalter-Haftpflichtversicherung für seine Tätigkeit als Reiseveranstalter."
+          }
+        ]
+      },
+      {
+        "title": "13. Beschränkung der Haftung",
+        "clauses": [
+          {
+            "number": "13.1",
+            "text": "Die vertragliche Haftung von Sendero für Schäden, die keine Körperschäden sind und nicht schuldhaft herbeigeführt wurden, ist auf den dreifachen Reisepreis beschränkt (§ 651p Abs. 1 BGB). Sehen internationale Übereinkommen oder darauf beruhende Vorschriften für eine Reiseleistung Haftungsbeschränkungen oder -ausschlüsse des Leistungserbringers vor, kann sich auch Sendero darauf berufen (§ 651p Abs. 2 BGB)."
+          },
+          {
+            "number": "13.2",
+            "text": "Sendero haftet nicht für Leistungsstörungen, Personen- oder Sachschäden im Zusammenhang mit Leistungen, die lediglich als Fremdleistungen vermittelt werden (z. B. vor Ort gebuchte Ausflüge, Kaffeeführungen, Thermalbäder, Paragliding), wenn diese in der Ausschreibung und Reisebestätigung unter Angabe des Vertragspartners ausdrücklich als Fremdleistungen gekennzeichnet sind. Dies gilt nicht, soweit eine Verletzung von Hinweis-, Aufklärungs- oder Organisationspflichten von Sendero ursächlich war."
+          },
+          {
+            "number": "13.3",
+            "text": "Sendero haftet nicht für Aktivitäten, die der Reisende während der Reise eigenständig außerhalb des Programms unternimmt (z. B. Fahrten in der Freizeit, eigenständige Erkundungen)."
+          },
+          {
+            "number": "13.4",
+            "text": "Die Haftung für Schäden aus der Verletzung von Leben, Körper oder Gesundheit sowie für vorsätzlich oder grob fahrlässig verursachte Schäden bleibt unbeschränkt."
+          }
+        ]
+      },
+      {
+        "title": "14. Pass-, Visa- und Gesundheitsvorschriften",
+        "clauses": [
+          {
+            "number": "14.1",
+            "text": "Sendero informiert vor Vertragsschluss über die allgemeinen Pass- und Visaerfordernisse für Kolumbien und über gesundheitspolizeiliche Formalitäten sowie über deren Änderungen vor Reisebeginn. Die Angaben gelten für Staatsangehörige der EU, der Schweiz und Liechtensteins ohne Besonderheiten (z. B. Doppelstaatsangehörigkeit, Staatenlosigkeit)."
+          },
+          {
+            "number": "14.2",
+            "text": "Der Reisende ist für das Beschaffen und Mitführen der Reisedokumente (Reisepass mit ausreichender Gültigkeit, ggf. Online-Einreiseformular Check-MIG), empfohlener oder vorgeschriebener Impfungen sowie für die Einhaltung von Zoll- und Devisenvorschriften selbst verantwortlich. Nachteile aus deren Nichtbeachtung gehen zu seinen Lasten, außer Sendero hat schuldhaft nicht, unzureichend oder falsch informiert."
+          },
+          {
+            "number": "14.3",
+            "text": "Aktuelle Reise- und Sicherheitshinweise sowie medizinische Hinweise veröffentlicht das Auswärtige Amt (auswaertiges-amt.de). Sendero empfiehlt eine reisemedizinische Beratung vor Reiseantritt, auch zur Höhenlage."
+          }
+        ]
+      },
+      {
+        "title": "15. Foto- und Filmaufnahmen",
+        "clauses": [
+          {
+            "number": "15.1",
+            "text": "Auf einzelnen Reisen begleitet ein von Sendero beauftragter Fotograf die Gruppe an ausgewählten Streckenpunkten. Die Verwendung von Aufnahmen, auf denen der Reisende erkennbar ist, für Website, Social Media oder Print erfolgt nur mit seiner gesonderten, jederzeit für die Zukunft widerruflichen Einwilligung, die mit dem Teilnehmerfragebogen abgefragt wird. Die Einwilligung ist keine Voraussetzung für die Teilnahme."
+          },
+          {
+            "number": "15.2",
+            "text": "Reisende erhalten die Fotos ihrer Reise zur privaten, nicht kommerziellen Nutzung. Urheberrechte verbleiben beim Fotografen bzw. bei Sendero."
+          }
+        ]
+      },
+      {
+        "title": "16. Datenschutz",
+        "clauses": [
+          {
+            "text": "Sendero verarbeitet personenbezogene Daten des Reisenden zur Durchführung des Vertrages (Art. 6 Abs. 1 lit. b DSGVO) und gibt sie nur an die für die Reise notwendigen Leistungsträger in Kolumbien weiter (z. B. Unterkünfte, lokaler Partner für Guiding und Transport). Gesundheitsangaben aus dem Teilnehmerfragebogen werden nur mit ausdrücklicher Einwilligung (Art. 9 Abs. 2 lit. a DSGVO) und ausschließlich zur sicheren Durchführung und für Notfälle verarbeitet und spätestens 3 Monate nach Reiseende gelöscht. Einzelheiten enthält die Datenschutzerklärung auf senderobiketrails.com."
+          }
+        ]
+      },
+      {
+        "title": "17. Geltendmachung von Ansprüchen, Verbraucherstreitbeilegung",
+        "clauses": [
+          {
+            "number": "17.1",
+            "text": "Ansprüche nach § 651i Abs. 3 BGB sind gegenüber Sendero unter den unten genannten Kontaktdaten geltend zu machen, empfohlen in Textform. Ansprüche verjähren nach § 651j BGB in zwei Jahren ab dem vertraglich vorgesehenen Reiseende."
+          },
+          {
+            "number": "17.2",
+            "text": "Die Abtretung von Ansprüchen an Dritte, die nicht Reiseteilnehmer sind, ist ausgeschlossen."
+          },
+          {
+            "number": "17.3",
+            "text": "Sendero nimmt nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil und ist hierzu nicht verpflichtet (§ 36 VSBG)."
+          }
+        ]
+      },
+      {
+        "title": "18. Anwendbares Recht, Gerichtsstand, Schlussbestimmungen",
+        "clauses": [
+          {
+            "number": "18.1",
+            "text": "Auf das Vertragsverhältnis findet ausschließlich deutsches Recht Anwendung, auch wenn die Reiseleistungen in Kolumbien erbracht werden."
+          },
+          {
+            "number": "18.2",
+            "text": "Der Reisende kann Sendero nur an dessen Sitz (Berlin) verklagen. Für Klagen von Sendero gegen den Reisenden ist dessen Wohnsitz maßgeblich. Für Klagen gegen Kaufleute, juristische Personen sowie Reisende ohne Wohnsitz oder gewöhnlichen Aufenthalt in Deutschland oder mit unbekanntem Wohnsitz wird Berlin als Gerichtsstand vereinbart."
+          },
+          {
+            "number": "18.3",
+            "text": "Diese Bestimmungen gelten nicht, soweit nicht abdingbare Vorschriften internationaler Abkommen oder des EU-Mitgliedstaats, dem der Reisende angehört, für ihn günstiger sind. Für Reisende mit Wohnsitz in der Schweiz gelten zwingende Verbraucherschutzvorschriften ihres Wohnsitzstaates."
+          },
+          {
+            "number": "18.4",
+            "text": "Die Unwirksamkeit einzelner Bestimmungen berührt die Wirksamkeit des Reisevertrages im Übrigen nicht."
+          }
+        ]
+      }
+    ],
+    "organizer": {
+      "title": "Reiseveranstalter",
+      "lines": [
+        "Sendero Bike Trails",
+        "Inhaber: Julian David Perez Rodriguez",
+        "Pettenkoferstraße 6, 10247 Berlin",
+        "E-Mail: julian@senderobiketrails.com",
+        "Telefon/WhatsApp: +49 176 31470193",
+        "Web: www.senderobiketrails.com",
+        "Steuernummer: 14/468/08405"
+      ]
+    },
+    "lastUpdated": "Stand: 27.10.2026"
   },
   "cookieBanner": {
     "text": "Wir nutzen Cookies, um zu verstehen, wie du unsere Seite verwendest – und sie für dich besser zu machen.",
