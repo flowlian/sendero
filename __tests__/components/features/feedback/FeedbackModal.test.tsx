@@ -488,7 +488,6 @@ render(<FeedbackModal open={true} onOpenChange={mockOnOpenChange} />);
         ],
       };
 
-      // eslint-disable-next-line no-undef
       const pasteEvent = new Event('paste', { bubbles: true }) as any;
       pasteEvent.clipboardData = clipboardData;
 
@@ -514,7 +513,6 @@ render(<FeedbackModal open={true} onOpenChange={mockOnOpenChange} />);
         ],
       };
 
-      // eslint-disable-next-line no-undef
       const pasteEvent = new Event('paste', { bubbles: true }) as any;
       pasteEvent.clipboardData = clipboardData;
 
@@ -540,7 +538,6 @@ render(<FeedbackModal open={true} onOpenChange={mockOnOpenChange} />);
         ],
       };
 
-      // eslint-disable-next-line no-undef
       const pasteEvent = new Event('paste', { bubbles: true }) as any;
       pasteEvent.clipboardData = clipboardData;
 
@@ -560,7 +557,6 @@ render(<FeedbackModal open={true} onOpenChange={mockOnOpenChange} />);
       const clipboardData1 = {
         items: [{ type: 'image/png', getAsFile: () => file1 }],
       };
-      // eslint-disable-next-line no-undef
       const pasteEvent1 = new Event('paste', { bubbles: true }) as any;
       pasteEvent1.clipboardData = clipboardData1;
       form?.dispatchEvent(pasteEvent1);
@@ -573,7 +569,6 @@ render(<FeedbackModal open={true} onOpenChange={mockOnOpenChange} />);
       const clipboardData2 = {
         items: [{ type: 'image/png', getAsFile: () => file2 }],
       };
-      // eslint-disable-next-line no-undef
       const pasteEvent2 = new Event('paste', { bubbles: true }) as any;
       pasteEvent2.clipboardData = clipboardData2;
       form?.dispatchEvent(pasteEvent2);
@@ -1006,7 +1001,6 @@ mockSubmitFeedback.mockResolvedValue({
       const { container } = render(<FeedbackModal open={true} onOpenChange={mockOnOpenChange} />);
 
       const form = container.querySelector('form');
-      // eslint-disable-next-line no-undef
       const pasteEvent = new Event('paste', { bubbles: true }) as any;
       pasteEvent.clipboardData = null;
 

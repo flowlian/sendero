@@ -791,6 +791,8 @@
     "rightsText2": "Para ejercer tus derechos, basta con enviar un correo electrónico a:",
     "cookiesTitle": "Cookies",
     "cookiesText": "Este sitio web utiliza cookies de análisis (Vercel Analytics y PostHog) para entender cómo los visitantes usan nuestro sitio y mejorar tu experiencia. Puedes gestionar tus preferencias de cookies mediante el banner que aparece en tu primera visita.",
+    "whatsappTitle": "WhatsApp",
+    "whatsappText": "Nuestro sitio web enlaza a WhatsApp, un servicio de WhatsApp Ireland Limited (Meta). Mientras navegas por nuestras páginas no se envía ningún dato a WhatsApp. Solo cuando tocas un botón de WhatsApp se abre la app o WhatsApp Web, y desde ese momento aplica la política de privacidad de WhatsApp. Lo que nos escribes lo usamos únicamente para responder tu pregunta o planear tu viaje.",
     "changesTitle": "Cambios en esta política de privacidad",
     "changesText": "Nos reservamos el derecho de adaptar esta política de privacidad cuando sea necesario para cumplir con los requisitos legales o los cambios en nuestros servicios."
   },
@@ -1252,6 +1254,33 @@
       ]
     },
     "lastUpdated": "Versión: 27 de octubre de 2026"
+  },
+  "whatsapp": {
+    "button": {
+      "ariaLabel": "Escríbele a Julian por WhatsApp"
+    },
+    "card": {
+      "name": "Julian · sendero bike trails",
+      "greeting": "¡Hola! Crecí en estas montañas y planeo cada viaje personalmente. Pregúntame lo que quieras, o cuéntame qué viaje tienes en mente.",
+      "ask": "Hacer una pregunta",
+      "trip": "Pedir un viaje",
+      "hint": "Abre WhatsApp. Leo cada mensaje yo mismo.",
+      "close": "Cerrar"
+    },
+    "message": {
+      "question": "¡Hola Julian! Tengo una pregunta: ",
+      "questionOnPage": "¡Hola Julian! Estaba mirando {page} de tu sitio web y tengo una pregunta: ",
+      "trip": "¡Hola Julian! Quiero planear un viaje.\nMás o menos cuándo: \nCuántas personas: \nMi nivel en la bici: "
+    },
+    "pages": {
+      "home": "la página de inicio",
+      "anfragen": "la página de solicitud de viaje",
+      "mtbReisen": "el viaje MTB",
+      "trails": "los senderos",
+      "faq": "las preguntas frecuentes",
+      "about": "la página sobre mí",
+      "contact": "la página de contacto"
+    }
   },
   "cookieBanner": {
     "text": "Usamos cookies para entender cómo usas el sitio y seguir mejorándolo.",

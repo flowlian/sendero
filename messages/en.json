@@ -791,6 +791,8 @@
     "rightsText2": "To exercise your rights, simply send an email to:",
     "cookiesTitle": "Cookies",
     "cookiesText": "This website uses analytics cookies (Vercel Analytics and PostHog) to understand how visitors use our site and to improve your experience. You can manage your cookie preferences using the banner shown on your first visit.",
+    "whatsappTitle": "WhatsApp",
+    "whatsappText": "Our website links to WhatsApp, a service of WhatsApp Ireland Limited (Meta). No data is sent to WhatsApp while you browse our pages. Only when you tap a WhatsApp button does the app or WhatsApp Web open, and from then on WhatsApp's own privacy policy applies. We use what you write to us only to answer your question or plan your trip.",
     "changesTitle": "Changes to this Privacy Policy",
     "changesText": "We reserve the right to adapt this privacy policy as necessary to comply with legal requirements or changes to our services."
   },
@@ -1252,6 +1254,33 @@
       ]
     },
     "lastUpdated": "Last updated: October 27, 2026"
+  },
+  "whatsapp": {
+    "button": {
+      "ariaLabel": "Chat with Julian on WhatsApp"
+    },
+    "card": {
+      "name": "Julian · sendero bike trails",
+      "greeting": "Hola! I grew up in these mountains and plan every trip myself. Ask me anything, or tell me what kind of trip you have in mind.",
+      "ask": "Ask a question",
+      "trip": "Request a trip",
+      "hint": "Opens WhatsApp. I read every message myself.",
+      "close": "Close"
+    },
+    "message": {
+      "question": "Hola Julian! I have a question: ",
+      "questionOnPage": "Hola Julian! I was looking at {page} on your website and have a question: ",
+      "trip": "Hola Julian! I'd like to plan a trip.\nWhen, roughly: \nHow many of us: \nRiding level: "
+    },
+    "pages": {
+      "home": "the home page",
+      "anfragen": "the trip request page",
+      "mtbReisen": "the MTB trip page",
+      "trails": "the trails",
+      "faq": "the FAQ",
+      "about": "the About page",
+      "contact": "the contact page"
+    }
   },
   "cookieBanner": {
     "text": "We use cookies to understand how you use our site and make it better.",

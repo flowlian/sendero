@@ -72,6 +72,11 @@ export default function DatenschutzPage() {
                 </div>
 
                 <div className="flex flex-col gap-2">
+                  <p className="font-bold">{t('whatsappTitle')}</p>
+                  <p>{t('whatsappText')}</p>
+                </div>
+
+                <div className="flex flex-col gap-2">
                   <p className="font-bold">{t('changesTitle')}</p>
                   <p>{t('changesText')}</p>
                 </div>

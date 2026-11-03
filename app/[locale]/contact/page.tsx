@@ -10,6 +10,7 @@ import { FaInstagram } from 'react-icons/fa6';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { breadcrumbSchema } from '@/lib/seo/jsonLd';
 import { buildAlternates, ogImages } from '@/lib/seo/canonical';
+import { buildWhatsAppUrl } from '@/lib/contact';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -87,7 +88,7 @@ export default function ContactPage() {
                         {t('contactInfo.whatsapp.label')}
                       </p>
                       <a
-                        href={`https://wa.me/4917631470193?text=${encodeURIComponent(t('whatsappMessage'))}`}
+                        href={buildWhatsAppUrl(t('whatsappMessage'))}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-body text-primary-600 hover:text-primary-700 transition-colors hover:underline"
