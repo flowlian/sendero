@@ -6,7 +6,9 @@ import Link from "next/link";
 import posthog from "posthog-js";
 import { Container } from "@/components/ui/Container";
 
-const STORAGE_KEY = "cookie-consent";
+export const STORAGE_KEY = "cookie-consent";
+/** Fired on window when the visitor accepts or declines, so other fixed UI can react */
+export const CONSENT_EVENT = "cookie-consent-change";
 
 export function CookieBanner() {
   const t = useTranslations("cookieBanner");
@@ -26,12 +28,14 @@ export function CookieBanner() {
     localStorage.setItem(STORAGE_KEY, "accepted");
     posthog.opt_in_capturing();
     setVisible(false);
+    window.dispatchEvent(new Event(CONSENT_EVENT));
   }
 
   function handleDecline() {
     localStorage.setItem(STORAGE_KEY, "declined");
     posthog.opt_out_capturing();
     setVisible(false);
+    window.dispatchEvent(new Event(CONSENT_EVENT));
   }
 
   if (!visible) return null;

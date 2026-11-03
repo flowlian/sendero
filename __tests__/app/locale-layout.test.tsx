@@ -31,6 +31,10 @@ jest.mock('@/components/features/feedback/FloatingFeedbackButton', () => ({
   FloatingFeedbackButton: () => null,
 }));
 
+jest.mock('@/components/features/whatsapp/WhatsAppWidget', () => ({
+  WhatsAppWidget: () => null,
+}));
+
 jest.mock('@/components/seo/JsonLd', () => ({
   JsonLd: () => null,
 }));

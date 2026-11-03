@@ -3,6 +3,7 @@ import { Analytics } from '@vercel/analytics/react';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, getTranslations, setRequestLocale } from 'next-intl/server';
 import { CookieBanner } from '@/components/features/cookie-consent/CookieBanner';
+import { WhatsAppWidget } from '@/components/features/whatsapp/WhatsAppWidget';
 import ScrollRestorer from '@/components/ScrollRestorer';
 import { notFound } from 'next/navigation';
 import { locales, type Locale } from '@/lib/i18n/config';
@@ -101,6 +102,7 @@ export default async function LocaleLayout({ children, params }: Props) {
             {children}
           </PostHogProvider>
           <CookieBanner />
+          <WhatsAppWidget />
         </NextIntlClientProvider>
         <Analytics />
       </body>
