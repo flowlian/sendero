@@ -1,0 +1,46 @@
+name: Hold WhatsApp widget off main
+
+# The WhatsApp widget (f8c4177) waits on development until Julian approves it
+# for production. A PR to main that brings it in fails until it carries the
+# `approved-whatsapp` label. Once the widget is on main, this check passes on
+# its own and can be deleted.
+
+on:
+  pull_request:
+    branches:
+      - main
+    types: [opened, synchronize, reopened, labeled, unlabeled]
+
+jobs:
+  guard:
+    name: Fail if the WhatsApp widget reaches main without approval
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Check for the widget and the approval label
+        env:
+          APPROVED: ${{ contains(github.event.pull_request.labels.*.name, 'approved-whatsapp') }}
+        run: |
+          if git cat-file -e "origin/${{ github.base_ref }}:components/features/whatsapp/WhatsAppWidget.tsx" 2>/dev/null; then
+            echo "The widget is already on main, nothing to hold back."
+            exit 0
+          fi
+
+          CHANGED=$(git diff --name-only "origin/${{ github.base_ref }}...HEAD")
+          if ! echo "$CHANGED" | grep -qE '^(components/features/whatsapp/|lib/contact\.ts$|docs/WHATSAPP_FLOW\.md$)'; then
+            echo "This PR does not bring the WhatsApp widget."
+            exit 0
+          fi
+
+          if [ "$APPROVED" = "true" ]; then
+            echo "WhatsApp widget approved for main."
+            exit 0
+          fi
+
+          echo "::error::This PR brings the WhatsApp widget to main. Add the 'approved-whatsapp' label once Julian approves it."
+          exit 1
