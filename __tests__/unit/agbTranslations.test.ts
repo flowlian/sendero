@@ -24,7 +24,7 @@ describe('agb translations', () => {
         .flatMap((section) => section.clauses)
         .flatMap((clause) => ('table' in clause ? (clause.table as { value: string }[]) : []))
         .map((row) => row.value.replace(/\s/g, ''));
-    expect(rates(deMessages.agb)).toEqual(['20%', '30%', '50%', '70%', '85%', '90%']);
+    expect(rates(deMessages.agb)).toEqual(['20%', '50%', '75%', '85%', '90%']);
     expect(rates(enMessages.agb)).toEqual(rates(deMessages.agb));
     expect(rates(esMessages.agb)).toEqual(rates(deMessages.agb));
   });
