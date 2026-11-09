@@ -102,7 +102,7 @@
   },
   "nextTrips": {
     "heading": "Upcoming Trips",
-    "pioneerTrip": "Pioneer Trip · 26\u00a0Nov\u00a0–\u00a04\u00a0Dec\u00a02026",
+    "pioneerTrip": "Pioneer Trip · 26 Nov – 4 Dec 2026",
     "soldOut": "Sold out",
     "continuesHeading": "The journey continues.",
     "continuesText": "New and exciting trails await you in March, April and May 2027!",
@@ -856,7 +856,7 @@
           },
           {
             "number": "2.3",
-            "text": "The balance is due 30 days before departure. If the trip is still subject to the minimum number of participants (Section 8.1), the balance only becomes due once sendero bike trails can no longer cancel the trip for this reason or has confirmed that it will go ahead."
+            "text": "The balance is due 30 days before departure."
           },
           {
             "number": "2.4",
@@ -919,7 +919,7 @@
           },
           {
             "number": "5.2",
-            "text": "If the Traveler cancels or does not start the trip, sendero bike trails loses its claim to the trip price and may instead claim reasonable compensation. This does not apply if sendero bike trails is responsible for the cancellation, or if unavoidable and extraordinary circumstances occur at or near the destination that significantly affect the performance of the trip (e.g., a travel warning issued by the German Federal Foreign Office for the region, natural disasters, serious unrest)."
+            "text": "If the Traveler cancels or does not start the trip, sendero bike trails loses its claim to the trip price and may instead claim reasonable compensation. This does not apply if sendero bike trails is responsible for the cancellation, or if unavoidable and extraordinary circumstances occur at or near the destination that significantly affect the performance of the trip (e.g., a travel warning issued by the German Federal Foreign Office for the region, natural disasters, serious unrest; see also Section 8.2)."
           },
           {
             "number": "5.3",
@@ -953,7 +953,7 @@
           },
           {
             "number": "5.4",
-            "text": "The Traveler remains free to prove that sendero bike trails has incurred no loss or a significantly lower loss. Instead of the flat rate, sendero bike trails may claim higher compensation calculated on an individual basis if it can prove significantly higher expenses; in that case it must quantify and justify the amount specifically."
+            "text": "The Traveler remains free to prove that sendero bike trails has incurred no loss or a significantly lower loss."
           },
           {
             "number": "5.5",
@@ -1001,7 +1001,7 @@
           {
             "number": "8.2",
             "lead": "Unavoidable and extraordinary circumstances",
-            "text": "If sendero bike trails is prevented from performing the trip by such circumstances (e.g., a travel warning, serious security incidents, natural events, failure of the region’s infrastructure), sendero bike trails may withdraw before departure. The cancellation is declared without undue delay once sendero bike trails becomes aware of the circumstances; payments are refunded within 14 days."
+            "text": "If sendero bike trails is prevented from performing the trip by such circumstances (e.g., a travel warning issued by the German Federal Foreign Office for the region, natural disasters, serious unrest or security incidents, failure of the region’s infrastructure; see also Section 5.2), sendero bike trails may withdraw before departure. The cancellation is declared without undue delay once sendero bike trails becomes aware of the circumstances; payments are refunded within 14 days."
           },
           {
             "number": "8.3",
@@ -1187,7 +1187,7 @@
         ]
       },
       {
-        "title": "17. Asserting claims, consumer dispute resolution",
+        "title": "17. Asserting claims",
         "clauses": [
           {
             "number": "17.1",
@@ -1196,10 +1196,6 @@
           {
             "number": "17.2",
             "text": "Claims may not be assigned to third parties who are not participants in the trip."
-          },
-          {
-            "number": "17.3",
-            "text": "sendero bike trails does not take part in dispute resolution proceedings before a consumer arbitration board and is not obliged to do so (§ 36 VSBG)."
           }
         ]
       },
@@ -1237,7 +1233,7 @@
         "Tax number: 14/468/08405"
       ]
     },
-    "lastUpdated": "Last updated: November 3, 2026"
+    "lastUpdated": "Last updated: November 8, 2026"
   },
   "whatsapp": {
     "button": {

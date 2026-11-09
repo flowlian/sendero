@@ -802,7 +802,7 @@
     "backAriaLabel": "Zurück zur Startseite",
     "notice": {
       "title": "Hinweis: Vorläufige Fassung",
-      "text": "Diese Reisebedingungen werden derzeit rechtlich und von unseren Versicherungspartnern geprüft und können sich noch ändern. Verbindlich ist die Fassung, die du mit deiner Reisebestätigung erhältst. Fragen? Schreib uns an julian@senderobiketrails.com."
+      "text": "Diese Reisebedingungen werden derzeit rechtlich und von unseren Versicherungspartnern geprüft und können sich noch ändern. Verbindlich ist die Fassung, die Du mit Deiner Reisebestätigung erhältst. Fragen? Schreib uns an julian@senderobiketrails.com."
     },
     "scope": {
       "title": "Geltungsbereich",
@@ -856,7 +856,7 @@
           },
           {
             "number": "2.3",
-            "text": "Die Restzahlung ist 30 Tage vor Reisebeginn fällig. Steht die Reise noch unter dem Vorbehalt der Mindestteilnehmerzahl (Ziffer 8.1), wird die Restzahlung erst fällig, wenn sendero bike trails die Reise nicht mehr aus diesem Grund absagen kann oder die Durchführung bestätigt hat."
+            "text": "Die Restzahlung ist 30 Tage vor Reisebeginn fällig."
           },
           {
             "number": "2.4",
@@ -919,7 +919,7 @@
           },
           {
             "number": "5.2",
-            "text": "Tritt der Reisende zurück oder tritt er die Reise nicht an, verliert sendero bike trails den Anspruch auf den Reisepreis und kann stattdessen eine angemessene Entschädigung verlangen. Dies gilt nicht, wenn sendero bike trails den Rücktritt zu vertreten hat oder am Bestimmungsort oder in dessen unmittelbarer Nähe unvermeidbare, außergewöhnliche Umstände auftreten, die die Durchführung der Reise erheblich beeinträchtigen (z. B. eine Reisewarnung des Auswärtigen Amtes für die Reiseregion, Naturkatastrophen, schwere Unruhen)."
+            "text": "Tritt der Reisende zurück oder tritt er die Reise nicht an, verliert sendero bike trails den Anspruch auf den Reisepreis und kann stattdessen eine angemessene Entschädigung verlangen. Dies gilt nicht, wenn sendero bike trails den Rücktritt zu vertreten hat oder am Bestimmungsort oder in dessen unmittelbarer Nähe unvermeidbare, außergewöhnliche Umstände auftreten, die die Durchführung der Reise erheblich beeinträchtigen (z. B. eine Reisewarnung des Auswärtigen Amtes für die Reiseregion, Naturkatastrophen, schwere Unruhen; siehe auch Ziffer 8.2)."
           },
           {
             "number": "5.3",
@@ -953,7 +953,7 @@
           },
           {
             "number": "5.4",
-            "text": "Dem Reisenden bleibt der Nachweis unbenommen, dass sendero bike trails kein oder ein wesentlich geringerer Schaden entstanden ist. sendero bike trails kann statt der Pauschale eine höhere, konkret berechnete Entschädigung verlangen, wenn wesentlich höhere Aufwendungen nachgewiesen werden; diese ist dann konkret zu beziffern und zu begründen."
+            "text": "Dem Reisenden bleibt der Nachweis unbenommen, dass sendero bike trails kein oder ein wesentlich geringerer Schaden entstanden ist."
           },
           {
             "number": "5.5",
@@ -1001,7 +1001,7 @@
           {
             "number": "8.2",
             "lead": "Unvermeidbare, außergewöhnliche Umstände",
-            "text": "Ist sendero bike trails aufgrund solcher Umstände an der Durchführung gehindert (z. B. Reisewarnung, schwere Sicherheitsvorfälle, Naturereignisse, Ausfall der Infrastruktur in der Region), kann sendero bike trails vor Reisebeginn zurücktreten. Der Rücktritt wird unverzüglich nach Kenntnis erklärt; Zahlungen werden innerhalb von 14 Tagen erstattet."
+            "text": "Ist sendero bike trails aufgrund solcher Umstände an der Durchführung gehindert (z. B. eine Reisewarnung des Auswärtigen Amtes für die Reiseregion, Naturkatastrophen, schwere Unruhen oder Sicherheitsvorfälle, Ausfall der Infrastruktur in der Region; siehe auch Ziffer 5.2), kann sendero bike trails vor Reisebeginn zurücktreten. Der Rücktritt wird unverzüglich nach Kenntnis erklärt; Zahlungen werden innerhalb von 14 Tagen erstattet."
           },
           {
             "number": "8.3",
@@ -1187,7 +1187,7 @@
         ]
       },
       {
-        "title": "17. Geltendmachung von Ansprüchen, Verbraucherstreitbeilegung",
+        "title": "17. Geltendmachung von Ansprüchen",
         "clauses": [
           {
             "number": "17.1",
@@ -1196,10 +1196,6 @@
           {
             "number": "17.2",
             "text": "Die Abtretung von Ansprüchen an Dritte, die nicht Reiseteilnehmer sind, ist ausgeschlossen."
-          },
-          {
-            "number": "17.3",
-            "text": "sendero bike trails nimmt nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil und ist hierzu nicht verpflichtet (§ 36 VSBG)."
           }
         ]
       },
@@ -1237,7 +1233,7 @@
         "Steuernummer: 14/468/08405"
       ]
     },
-    "lastUpdated": "Stand: 03.11.2026"
+    "lastUpdated": "Stand: 08.11.2026"
   },
   "whatsapp": {
     "button": {
