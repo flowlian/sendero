@@ -854,7 +854,7 @@
           },
           {
             "number": "2.3",
-            "text": "El saldo restante vence 30 días antes del inicio del viaje. Si el viaje sigue sujeto al número mínimo de participantes (cláusula 8.1), el saldo vence solo cuando sendero bike trails ya no pueda cancelar el viaje por ese motivo o haya confirmado que se realizará."
+            "text": "El saldo restante vence 30 días antes del inicio del viaje."
           },
           {
             "number": "2.4",
@@ -866,7 +866,7 @@
           },
           {
             "number": "2.6",
-            "text": "Si, pese a haber recibido el certificado de protección, el Viajero no paga el anticipo o el saldo a tiempo, sendero bike trails puede, tras un requerimiento con fijación de plazo, desistir del contrato y exigir una indemnización conforme a la cláusula 5.3, salvo que exista un defecto del viaje que dé derecho al desistimiento."
+            "text": "Si, pese a haber recibido el certificado de protección, el Viajero no paga el anticipo o el saldo a tiempo, sendero bike trails puede, tras un requerimiento con fijación de plazo, desistir del contrato y cobrar los gastos de cancelación conforme a la cláusula 5.3, salvo que exista un defecto del viaje que dé derecho al desistimiento."
           },
           {
             "number": "2.7",
@@ -917,14 +917,14 @@
           },
           {
             "number": "5.2",
-            "text": "Si el Viajero desiste o no se presenta al viaje, sendero bike trails pierde el derecho al precio del viaje y puede exigir en su lugar una indemnización razonable. Esto no aplica si sendero bike trails es responsable del desistimiento o si en el lugar de destino o en sus inmediaciones se producen circunstancias inevitables y extraordinarias que afecten considerablemente la realización del viaje (por ejemplo, una advertencia de viaje del Ministerio Federal de Relaciones Exteriores de Alemania para la región, desastres naturales, disturbios graves)."
+            "text": "Si el Viajero desiste o no se presenta al viaje, sendero bike trails pierde el derecho al precio del viaje y puede cobrar en su lugar unos gastos de cancelación razonables. Esto no aplica si sendero bike trails es responsable del desistimiento o si en el lugar de destino o en sus inmediaciones se producen circunstancias inevitables y extraordinarias que afecten considerablemente la realización del viaje (por ejemplo, una advertencia de viaje del Ministerio Federal de Relaciones Exteriores de Alemania para la región, desastres naturales, disturbios graves; ver también la cláusula 8.2)."
           },
           {
             "number": "5.3",
-            "text": "Teniendo en cuenta los gastos ahorrados y el posible uso alternativo habitual de los servicios del viaje, la indemnización se fija a tanto alzado de la siguiente manera (por persona, en % del precio del viaje):",
+            "text": "Teniendo en cuenta los gastos ahorrados y el posible uso alternativo habitual de los servicios del viaje, los gastos de cancelación se fijan a tanto alzado de la siguiente manera (por persona, en % del precio del viaje):",
             "tableHeaders": [
               "Recepción del desistimiento",
-              "Indemnización"
+              "Gastos de cancelación"
             ],
             "table": [
               {
@@ -951,7 +951,7 @@
           },
           {
             "number": "5.4",
-            "text": "El Viajero conserva el derecho de demostrar que sendero bike trails no sufrió ningún perjuicio o que este fue considerablemente menor. En lugar del importe a tanto alzado, sendero bike trails puede exigir una indemnización mayor, calculada de forma concreta, si demuestra gastos considerablemente más altos; en ese caso debe cuantificarla y justificarla de forma concreta."
+            "text": "El Viajero conserva el derecho de demostrar que sendero bike trails no sufrió ningún perjuicio o que este fue considerablemente menor."
           },
           {
             "number": "5.5",
@@ -999,7 +999,7 @@
           {
             "number": "8.2",
             "lead": "Circunstancias inevitables y extraordinarias",
-            "text": "Si tales circunstancias impiden a sendero bike trails realizar el viaje (por ejemplo, una advertencia de viaje, incidentes graves de seguridad, fenómenos naturales, fallas de la infraestructura en la región), sendero bike trails puede desistir antes del inicio del viaje. El desistimiento se comunica sin demora tras tener conocimiento de ello; los pagos se reembolsan dentro de 14 días."
+            "text": "Si tales circunstancias impiden a sendero bike trails realizar el viaje (por ejemplo, una advertencia de viaje del Ministerio Federal de Relaciones Exteriores de Alemania para la región, desastres naturales, disturbios graves o incidentes de seguridad, fallas de la infraestructura en la región; ver también la cláusula 5.2), sendero bike trails puede desistir antes del inicio del viaje. El desistimiento se comunica sin demora tras tener conocimiento de ello; los pagos se reembolsan dentro de 14 días."
           },
           {
             "number": "8.3",
@@ -1142,7 +1142,7 @@
           },
           {
             "number": "13.4",
-            "text": "La responsabilidad por daños derivados de lesiones a la vida, la integridad física o la salud, así como por daños causados con dolo o negligencia grave, no tiene límite."
+            "text": "sendero bike trails responde sin límite por lesiones a la vida, la integridad física o la salud, y por daños causados con dolo o negligencia grave; la ley no permite limitar esta responsabilidad."
           }
         ]
       },
@@ -1185,7 +1185,7 @@
         ]
       },
       {
-        "title": "17. Reclamaciones, resolución de litigios de consumo",
+        "title": "17. Reclamaciones",
         "clauses": [
           {
             "number": "17.1",
@@ -1194,10 +1194,6 @@
           {
             "number": "17.2",
             "text": "Se excluye la cesión de reclamaciones a terceros que no sean participantes del viaje."
-          },
-          {
-            "number": "17.3",
-            "text": "sendero bike trails no participa en procedimientos de resolución de litigios ante una entidad de arbitraje de consumo y no está obligado a hacerlo (§ 36 VSBG)."
           }
         ]
       },
@@ -1235,7 +1231,7 @@
         "Número de identificación fiscal (Steuernummer): 14/468/08405"
       ]
     },
-    "lastUpdated": "Versión: 3 de noviembre de 2026"
+    "lastUpdated": "Versión: 8 de noviembre de 2026"
   },
   "cookieBanner": {
     "text": "Usamos cookies para entender cómo usas el sitio y seguir mejorándolo.",
