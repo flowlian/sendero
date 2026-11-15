@@ -101,11 +101,8 @@
     "joinButton": "Regístrate"
   },
   "nextTrips": {
-    "heading": "Próximos viajes",
-    "pioneerTrip": "Viaje pionero · 26.11.–04.12.2026",
-    "soldOut": "Plazas agotadas",
-    "continuesHeading": "La aventura continúa.",
-    "continuesText": "¡En marzo, abril y mayo de 2027 te esperan nuevos y emocionantes senderos!",
+    "heading": "Tu próximo viaje",
+    "continuesText": "En marzo, abril y mayo de 2027 te esperan nuevos y emocionantes senderos.",
     "requestCta": "Solicitar viaje",
     "waitlistCta": "Mantenerme informado"
   },

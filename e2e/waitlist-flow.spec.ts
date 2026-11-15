@@ -31,11 +31,19 @@ test.describe('Landing Page & Email Capture', () => {
     // Hero intro section
     await expect(page.getByText(/let go\. colombia is waiting\./i)).toBeVisible();
 
-    // Next trips + email capture CTA
-    await expect(page.getByRole('heading', { name: /upcoming trips/i })).toBeVisible();
+    // Hero prompt + request-trip CTA
     await expect(page.getByText(/would you like to join us/i)).toBeVisible();
+
+    // Next trip section: request-trip CTA + email capture
+    await expect(page.getByRole('heading', { name: /your next trip/i })).toBeVisible();
     await expect(page.getByRole('button', { name: /^stay informed$/i })).toBeVisible();
-    await expect(page.getByRole('link', { name: /^request a trip$/i })).toHaveAttribute('href', '/en/anfragen');
+
+    // "Request a trip" appears in the hero and in the next trip section
+    const requestLinks = page.getByRole('link', { name: /^request a trip$/i });
+    await expect(requestLinks).toHaveCount(2);
+    for (const link of await requestLinks.all()) {
+      await expect(link).toHaveAttribute('href', '/en/anfragen');
+    }
   });
 
   test('should complete successful email signup', async ({ page }) => {
