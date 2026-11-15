@@ -18,6 +18,7 @@
     }
   },
   "hero": {
+    "prompt": "Would you like to join us?",
     "title": "Cycling experiences through Colombia's Andean forests",
     "subtitle": "We connect you on two wheels with the mountains and create unique moments for all your senses.",
     "description": "Beginner-friendly, sustainable hike & bike tours through Pereira's stunning landscapes. E-bikes, women-only groups, and authentic coffee farm experiences.",
@@ -101,12 +102,8 @@
     "joinButton": "Sign up"
   },
   "nextTrips": {
-    "heading": "Upcoming Trips",
-    "pioneerTrip": "Pioneer Trip · 26\u00a0Nov\u00a0–\u00a04\u00a0Dec\u00a02026",
-    "soldOut": "Sold out",
-    "continuesHeading": "The journey continues.",
-    "continuesText": "New and exciting trails await you in March, April and May 2027 – <br></br>two groups per month, small and personal.",
-    "prompt": "Would you like to join us?",
+    "heading": "Your next trip",
+    "continuesText": "New and exciting trails await you in March, April and May 2027.",
     "requestCta": "Request a trip",
     "waitlistCta": "Stay informed"
   },

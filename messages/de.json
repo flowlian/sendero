@@ -18,8 +18,9 @@
     }
   },
   "hero": {
+    "prompt": "Möchtest Du dabei sein?",
     "title": "Fahrraderlebnisse in Kolumbiens Andenwäldern",
-    "subtitle": "Wir verbinden dich auf dem Rad mit den Bergen und gestalten einzigartige Augenblicke für all deine Sinne.",
+    "subtitle": "Wir verbinden Dich auf dem Rad mit den Bergen und gestalten einzigartige Augenblicke für all Deine Sinne.",
     "description": "Anfängerfreundliche, nachhaltige Wander- und Radtouren durch die atemberaubenden Landschaften Pereiras. E-Bikes, reine Frauengruppen und authentische Kaffeefarmerlebnisse.",
     "features": {
       "eBikes": "E-Bikes verfügbar",
@@ -32,7 +33,7 @@
       "buttonSent": "VERSENDET",
       "placeholder": "E-Mail-Adresse eingeben",
       "helperText": "Kein Spam, nur Updates zum Start",
-      "successMessage": "✓ Danke! Wir halten dich auf dem Laufenden."
+      "successMessage": "✓ Danke! Wir halten Dich auf dem Laufenden."
     },
     "exploreTrails": "TRAILS ENTDECKEN",
     "discoverTrails": "TRAILS ENTDECKEN"
@@ -40,7 +41,7 @@
   "heroIntro": {
     "heading": "Lass los. Kolumbien wartet.",
     "subheading": "7–9 Tage. Kleine Gruppen. Uralte Pfade",
-    "subtitle": "Begib dich auf eine mehrtägige Mountainbike-Reise durch Berglandschaften, Kaffeekultur und tropische Trails. Geführt, kuratiert, unverwechselbar."
+    "subtitle": "Begib Dich auf eine mehrtägige Mountainbike-Reise durch Berglandschaften, Kaffeekultur und tropische Trails. Geführt, kuratiert, unverwechselbar."
   },
   "howItWorks": {
     "heading": "Wie es funktioniert",
@@ -101,12 +102,8 @@
     "joinButton": "TEILNEHMEN"
   },
   "nextTrips": {
-    "heading": "Die nächsten Reisen",
-    "pioneerTrip": "Pionierreise · 26.11.–04.12.2026",
-    "soldOut": "Ausgebucht",
-    "continuesHeading": "Die Reise geht weiter.",
-    "continuesText": "Im März, April und Mai 2027 warten neue, spannende Trails auf Dich – <br></br>zwei Gruppen pro Monat, klein und persönlich.",
-    "prompt": "Du möchtest dabei sein?",
+    "heading": "Deine nächste Reise",
+    "continuesText": "Im März, April und Mai 2027 warten neue, spannende Trails auf Dich.",
     "requestCta": "Reise anfragen",
     "waitlistCta": "Informiert bleiben"
   },

@@ -61,31 +61,28 @@ jest.mock('@/components/seo/JsonLd', () => ({
 }));
 
 describe('HomePage section flow', () => {
-  it('renders waitlist email capture after the tour grid', () => {
-    render(<HomePage />);
+  it('renders the request-trip CTA in the video hero, before the tour grid', () => {
+    const { container } = render(<HomePage />);
+    const hero = container.querySelector('.hero-section') as HTMLElement;
+
+    expect(within(hero).getByText('prompt')).toBeInTheDocument();
+    expect(within(hero).getByRole('link', { name: 'requestCta' })).toHaveAttribute('href', '/anfragen');
+    expect(within(hero).queryByTestId('bottom-email')).not.toBeInTheDocument();
 
     const tourGrid = screen.getByTestId('tour-grid');
-    const bottomEmail = screen.getByTestId('bottom-email');
-    const DOCUMENT_POSITION_FOLLOWING = 4;
-
-    expect(
-      tourGrid.compareDocumentPosition(bottomEmail) & DOCUMENT_POSITION_FOLLOWING
-    ).toBeTruthy();
-
-    expect(screen.queryByTestId('newsletter-hero')).not.toBeInTheDocument();
+    const DOCUMENT_POSITION_PRECEDING = 2;
+    expect(tourGrid.compareDocumentPosition(hero) & DOCUMENT_POSITION_PRECEDING).toBeTruthy();
   });
 
-  it('renders the next trips announcement in the waitlist section', () => {
+  it('renders the next trip announcement in the waitlist section', () => {
     const { container } = render(<HomePage />);
     const waitlist = container.querySelector('#waitlist') as HTMLElement;
 
     expect(within(waitlist).getByRole('heading', { name: 'heading' })).toBeInTheDocument();
-    ['pioneerTrip', 'soldOut', 'continuesHeading', 'continuesText', 'prompt'].forEach((key) => {
-      expect(within(waitlist).getByText(key)).toBeInTheDocument();
-    });
+    expect(within(waitlist).getByText('continuesText')).toBeInTheDocument();
   });
 
-  it('links the request-trip CTA to the booking form', () => {
+  it('offers both the request-trip CTA and the waitlist capture in the waitlist section', () => {
     const { container } = render(<HomePage />);
     const waitlist = container.querySelector('#waitlist') as HTMLElement;
 

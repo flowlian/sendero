@@ -18,6 +18,7 @@
     }
   },
   "hero": {
+    "prompt": "¿Quieres acompañarnos?",
     "title": "Experiencias en bicicleta por los Bosques Andinos Colombianos",
     "subtitle": "Te conectamos en bicicleta con las montañas y creamos momentos únicos para todos tus sentidos.",
     "description": "Tours de senderismo y ciclismo para principiantes, sostenibles a través de los impresionantes paisajes de Pereira. Bicicletas eléctricas, grupos solo para mujeres y experiencias auténticas en fincas cafeteras.",
@@ -101,12 +102,8 @@
     "joinButton": "Regístrate"
   },
   "nextTrips": {
-    "heading": "Próximos viajes",
-    "pioneerTrip": "Viaje pionero · 26.11.–04.12.2026",
-    "soldOut": "Plazas agotadas",
-    "continuesHeading": "La aventura continúa.",
-    "continuesText": "En marzo, abril y mayo de 2027 te esperan nuevos y emocionantes senderos – <br></br>dos grupos por mes, pequeños y cercanos.",
-    "prompt": "¿Quieres acompañarnos?",
+    "heading": "Tu próximo viaje",
+    "continuesText": "En marzo, abril y mayo de 2027 te esperan nuevos y emocionantes senderos.",
     "requestCta": "Solicitar viaje",
     "waitlistCta": "Mantenerme informado"
   },

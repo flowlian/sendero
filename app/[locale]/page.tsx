@@ -72,8 +72,15 @@ export default function HomePage() {
           <HeroVideo />
 
           {/* Content */}
-          <div className="relative z-10 flex flex-1 flex-col items-center justify-center text-center px-6 sm:px-10 lg:px-16">
+          <div className="relative z-10 flex flex-1 flex-col items-center justify-center gap-10 text-center px-6 sm:px-10 lg:px-16">
             <HeroTitle title={tHero('title')} />
+            {/* Trip inquiry CTA */}
+            <div className="flex w-full flex-col items-center gap-6">
+              <p className="text-h3 font-light leading-8 tracking-wide text-white">
+                {tHero('prompt')}
+              </p>
+              <RequestTripCta label={tNextTrips('requestCta')} source="home_hero" />
+            </div>
           </div>
         </section>
 
@@ -111,8 +118,8 @@ export default function HomePage() {
                   fill="none"
                 />
               </svg>
-              <div className="text-center max-w-text">
-                <p className="text-lg leading-relaxed font-normal text-center text-white/90">
+              <div className="text-center max-w-heading">
+                <p className="text-h3 font-light leading-8 tracking-wide text-background">
                   {tHeroIntro('subtitle')}
                 </p>
               </div>
@@ -240,16 +247,9 @@ export default function HomePage() {
                 {tNextTrips('heading')}
               </h2>
 
-              <div className="mb-10 flex flex-col gap-1 text-h3 leading-8 tracking-wide text-white">
-                <p className="font-bold">{tNextTrips('pioneerTrip')}</p>
-                <p className="font-light">{tNextTrips('soldOut')}</p>
-              </div>
-
-              <div className="mb-10 max-w-heading flex flex-col gap-3 text-h3 font-light leading-8 tracking-wide text-background">
-                <p className="font-bold text-white">{tNextTrips('continuesHeading')}</p>
-                <p>{tNextTrips.rich('continuesText', { br: () => <span className="hidden md:block" /> })}</p>
-                <p>{tNextTrips('prompt')}</p>
-              </div>
+              <p className="mb-10 max-w-heading text-h3 font-light leading-8 tracking-wide text-background">
+                {tNextTrips('continuesText')}
+              </p>
 
               {/* CTAs: trip inquiry (primary) + waitlist email capture (secondary) */}
               <div className="max-w-md mx-auto flex flex-col items-center gap-12">
