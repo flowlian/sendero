@@ -101,11 +101,8 @@
     "joinButton": "Sign up"
   },
   "nextTrips": {
-    "heading": "Upcoming Trips",
-    "pioneerTrip": "Pioneer Trip · 26 Nov – 4 Dec 2026",
-    "soldOut": "Sold out",
-    "continuesHeading": "The journey continues.",
-    "continuesText": "New and exciting trails await you in March, April and May 2027!",
+    "heading": "Your next trip",
+    "continuesText": "New and exciting trails await you in March, April and May 2027.",
     "requestCta": "Request a trip",
     "waitlistCta": "Stay informed"
   },

@@ -101,11 +101,8 @@
     "joinButton": "TEILNEHMEN"
   },
   "nextTrips": {
-    "heading": "Die nächsten Reisen",
-    "pioneerTrip": "Pionierreise · 26.11.–04.12.2026",
-    "soldOut": "Ausgebucht",
-    "continuesHeading": "Die Reise geht weiter.",
-    "continuesText": "Im März, April und Mai 2027 warten neue, spannende Trails auf Dich!",
+    "heading": "Deine nächste Reise",
+    "continuesText": "Im März, April und Mai 2027 warten neue, spannende Trails auf Dich.",
     "requestCta": "Reise anfragen",
     "waitlistCta": "Informiert bleiben"
   },
