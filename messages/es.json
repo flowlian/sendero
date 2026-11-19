@@ -795,10 +795,6 @@
     "title": "Condiciones Generales de Viaje – sendero bike trails",
     "metaTitle": "Términos y Condiciones — sendero bike trails",
     "backAriaLabel": "Volver al inicio",
-    "notice": {
-      "title": "Aviso: versión provisional",
-      "text": "Estas condiciones de viaje están siendo revisadas por asesores legales y por nuestros socios aseguradores, y todavía pueden cambiar. La versión que aplica para ti es la que recibes con tu confirmación de viaje. Esta traducción al español es solo orientativa; únicamente la versión en alemán es jurídicamente vinculante. ¿Preguntas? Escríbenos a julian@senderobiketrails.com."
-    },
     "scope": {
       "title": "Ámbito de aplicación",
       "paragraphs": [
@@ -884,11 +880,11 @@
           },
           {
             "number": "3.3",
-            "text": "Se permiten modificaciones de servicios concretos después de celebrado el contrato, siempre que sendero bike trails no las haya provocado de mala fe, sean de poca importancia y no afecten al carácter general del viaje. Esto incluye en particular ajustes de la ruta, de las etapas diarias o del orden del programa debido al clima, al estado de los senderos y las vías, a la situación de seguridad o a la condición física del grupo, el cambio de un alojamiento por otro equivalente y la asignación de otro guía cualificado. sendero bike trails informa al Viajero sobre estos cambios antes del inicio del viaje, de forma clara y comprensible, en un soporte duradero."
+            "text": "Se permiten modificaciones de servicios concretos después de celebrado el contrato, siempre que sendero bike trails no las haya provocado de mala fe, sean de poca importancia y no afecten al carácter general del viaje. Esto incluye en particular ajustes de la ruta, de las etapas diarias o del orden del programa debido al clima, al estado de los senderos y las vías, a la situación de seguridad o a la condición física del grupo, el cambio de un alojamiento por otro equivalente y la asignación de otro guía cualificado. Los cambios de rutas, etapas y guías solo se permiten en la medida en que no alteren el carácter del viaje reservado ni sus características esenciales acordadas. sendero bike trails informa al Viajero sobre estos cambios antes del inicio del viaje, de forma clara y comprensible, en un soporte duradero."
           },
           {
             "number": "3.4",
-            "text": "En caso de una modificación considerable de un servicio esencial del viaje, el Viajero puede, dentro de un plazo razonable fijado por sendero bike trails, aceptar la modificación, desistir del contrato sin costo o elegir un viaje sustitutivo, si se le ofrece. Si no responde a tiempo, se considera aceptada la modificación. La comunicación se lo indicará."
+            "text": "En caso de una modificación considerable de un servicio esencial del viaje, el Viajero puede, dentro de un plazo razonable fijado por sendero bike trails, aceptar la modificación, desistir del contrato sin costo o elegir un viaje sustitutivo, si se le ofrece. Si no responde a tiempo, se considera aceptada la modificación del servicio esencial. La comunicación se lo indicará."
           },
           {
             "number": "3.5",
@@ -901,7 +897,19 @@
         "clauses": [
           {
             "number": "4.1",
-            "text": "sendero bike trails renuncia a aumentar el precio del viaje después de celebrado el contrato. El precio confirmado al reservar es un precio fijo."
+            "text": "sendero bike trails se reserva el derecho de aumentar el precio del viaje después de celebrado el contrato en la medida en que ello resulte directamente de: (a) un aumento del costo del combustible para el transporte en destino, (b) un aumento de impuestos y tasas (por ejemplo, tasas turísticas, de parques o de entrada) o (c) una variación del tipo de cambio entre el euro y el peso colombiano (COP), en la medida en que los servicios se compren en COP."
+          },
+          {
+            "number": "4.2",
+            "text": "El aumento corresponde a la parte de los costos adicionales que le toca a cada Viajero. sendero bike trails lo comunica a más tardar 20 días antes del inicio del viaje en un soporte duradero, con la justificación y el cálculo."
+          },
+          {
+            "number": "4.3",
+            "text": "El Viajero puede exigir una reducción del precio si los costos indicados en 4.1 disminuyen después de celebrado el contrato y esto le genera a sendero bike trails costos menores."
+          },
+          {
+            "number": "4.4",
+            "text": "Si el precio aumenta más del 8 %, el Viajero puede, dentro de un plazo razonable fijado por sendero bike trails, desistir del contrato sin costo o elegir un viaje sustitutivo. Si no responde a tiempo, se considera aceptado el aumento."
           }
         ]
       },
@@ -914,7 +922,7 @@
           },
           {
             "number": "5.2",
-            "text": "Si el Viajero desiste o no se presenta al viaje, sendero bike trails pierde el derecho al precio del viaje y puede cobrar en su lugar unos gastos de cancelación razonables. Esto no aplica si sendero bike trails es responsable del desistimiento o si en el lugar de destino o en sus inmediaciones se producen circunstancias inevitables y extraordinarias que afecten considerablemente la realización del viaje (por ejemplo, una advertencia de viaje del Ministerio Federal de Relaciones Exteriores de Alemania para la región, desastres naturales, disturbios graves; ver también la cláusula 8.2)."
+            "text": "Si el Viajero desiste o no se presenta al viaje, sendero bike trails pierde el derecho al precio del viaje y puede cobrar en su lugar unos gastos de cancelación razonables. Esto no aplica si sendero bike trails es responsable del desistimiento o si en el lugar de destino o en sus inmediaciones se producen circunstancias inevitables y extraordinarias que afecten considerablemente la realización del viaje (por ejemplo, una advertencia de viaje del Ministerio Federal de Relaciones Exteriores de Alemania para la región, desastres naturales, disturbios graves)."
           },
           {
             "number": "5.3",
@@ -996,12 +1004,12 @@
           {
             "number": "8.2",
             "lead": "Circunstancias inevitables y extraordinarias",
-            "text": "Si tales circunstancias impiden a sendero bike trails realizar el viaje (por ejemplo, una advertencia de viaje del Ministerio Federal de Relaciones Exteriores de Alemania para la región, desastres naturales, disturbios graves o incidentes de seguridad, fallas de la infraestructura en la región; ver también la cláusula 5.2), sendero bike trails puede desistir antes del inicio del viaje. El desistimiento se comunica sin demora tras tener conocimiento de ello; los pagos se reembolsan dentro de 14 días."
+            "text": "sendero bike trails puede desistir del contrato de viaje combinado antes del inicio del viaje si circunstancias inevitables y extraordinarias le impiden cumplir el contrato. Existen tales circunstancias cuando escapan a su control y sus consecuencias no habrían podido evitarse ni siquiera adoptando todas las medidas razonables. Se aplican los requisitos legales del § 651h, apartado 4, del Código Civil alemán (BGB). En caso de desistimiento, todos los pagos realizados sobre el precio del viaje se reembolsan sin demora y, a más tardar, dentro de los 14 días siguientes al desistimiento."
           },
           {
             "number": "8.3",
             "lead": "Resolución por conducta",
-            "text": "sendero bike trails puede resolver el contrato sin preaviso si el Viajero, pese a una advertencia, perturba de forma persistente la realización del viaje, desatiende de forma reiterada o grave las instrucciones de seguridad del guía o actúa de manera tan contraria al contrato que se justifique la terminación inmediata. En ese caso, sendero bike trails conserva el derecho al precio del viaje, descontando los gastos ahorrados y los beneficios obtenidos. Los costos adicionales del regreso corren por cuenta del Viajero."
+            "text": "sendero bike trails puede resolver el contrato por causa justificada si el Viajero, pese a una advertencia, perturba de forma persistente la realización del viaje o actúa de manera tan contraria al contrato que se justifique su terminación inmediata. No se requiere advertencia cuando evidentemente no tendría efecto o cuando las circunstancias particulares justifican la resolución inmediata. sendero bike trails conserva su derecho al precio del viaje, descontando los gastos ahorrados y los beneficios obtenidos. El Viajero responde por los costos adicionales de regreso causados por su conducta."
           }
         ]
       },
@@ -1031,7 +1039,7 @@
           {
             "number": "9.5",
             "lead": "Exclusión de etapas concretas",
-            "text": "Si, a juicio de los guías, un Viajero está visiblemente sobrepasado, enfermo, lesionado, bajo los efectos del alcohol o sin el equipo obligatorio, puede ser excluido de etapas concretas por su propia seguridad y la del grupo. En ese caso, sendero bike trails ofrece, en la medida de lo posible, un traslado en el vehículo de apoyo hasta el destino del día. El reembolso solo procede conforme a la cláusula 7."
+            "text": "Si, a juicio de los guías, un Viajero está visiblemente sobrepasado, enfermo, lesionado, bajo los efectos del alcohol o sin el equipo obligatorio, puede ser excluido de etapas concretas por su propia seguridad y la del grupo. En ese caso, sendero bike trails ofrece, en la medida de lo posible, un traslado en el vehículo de apoyo hasta el destino del día. La decisión de excluir a un Viajero de una etapa la toman los guías con criterio responsable, teniendo en cuenta la seguridad del Viajero afectado y del resto del grupo. La exclusión debe basarse en circunstancias concretas relacionadas con la seguridad. Los derechos legales del Viajero por servicios no prestados no se ven afectados."
           },
           {
             "number": "9.6",
@@ -1056,7 +1064,7 @@
           {
             "number": "10.3",
             "lead": "Daños a la bicicleta de alquiler",
-            "text": "Por daños o pérdidas que vayan más allá del desgaste normal, el Viajero responde por el importe total de la reparación o del valor actual en caso de dolo o negligencia grave. En caso de negligencia leve, la responsabilidad se limita a 300 € por siniestro. Los daños causados por caídas propias de este deporte durante un uso adecuado no se consideran causados por negligencia."
+            "text": "El Viajero responde por la pérdida o los daños de la bicicleta de alquiler que haya causado de forma culposa y que vayan más allá del desgaste normal. Por daños causados con negligencia leve, la responsabilidad se limita a 300 € por siniestro, siempre que no se hayan incumplido obligaciones contractuales esenciales."
           },
           {
             "number": "10.4",
@@ -1109,7 +1117,7 @@
           {
             "number": "12.2",
             "lead": "Obligatorio",
-            "text": "Cada Viajero debe contratar un seguro médico de viaje internacional que cubra el tratamiento médico en Colombia, la búsqueda y el rescate, así como la repatriación a Alemania cuando sea médicamente razonable, y que no excluya el ciclismo ni el ciclismo de montaña. El comprobante (nombre de la aseguradora, número de póliza, número de emergencia) debe presentarse con el cuestionario de participante a más tardar 14 días antes del inicio del viaje. Sin comprobante, sendero bike trails puede negar la participación en las etapas; la cláusula 7 aplica de forma análoga."
+            "text": "Cada Viajero está obligado a contar con un seguro médico de viaje internacional que cubra el tratamiento médico en Colombia, la búsqueda y el rescate, así como la repatriación a Alemania cuando sea médicamente razonable, y que no excluya el ciclismo ni el ciclismo de montaña. El comprobante (nombre de la aseguradora, número de póliza, número de emergencia) debe presentarse con el cuestionario de participante a más tardar 14 días antes del inicio del viaje. Sin comprobante, sendero bike trails puede negar la participación en las etapas; la cláusula 7 aplica de forma análoga."
           },
           {
             "number": "12.3",
@@ -1169,7 +1177,7 @@
           },
           {
             "number": "15.2",
-            "text": "Los Viajeros reciben las fotos de su viaje para uso privado y no comercial. Los derechos de autor siguen siendo del fotógrafo o de sendero bike trails."
+            "text": "Los Viajeros reciben las fotos de su viaje para uso privado y no comercial. Cederlas a terceros para uso comercial o publicarlas con fines comerciales requiere el consentimiento previo del titular de los derechos. Los derechos de autor permanecen en el respectivo fotógrafo. Los derechos de uso otorgados a sendero bike trails no se ven afectados."
           }
         ]
       },
@@ -1187,10 +1195,6 @@
           {
             "number": "17.1",
             "text": "Las reclamaciones conforme al § 651i, apdo. 3, BGB deben presentarse ante sendero bike trails a través de los datos de contacto indicados abajo, preferiblemente por escrito. Según el § 651j BGB, las reclamaciones prescriben a los dos años contados desde la fecha de finalización del viaje prevista en el contrato."
-          },
-          {
-            "number": "17.2",
-            "text": "Se excluye la cesión de reclamaciones a terceros que no sean participantes del viaje."
           }
         ]
       },
@@ -1228,7 +1232,7 @@
         "Número de identificación fiscal (Steuernummer): 14/468/08405"
       ]
     },
-    "lastUpdated": "Versión: 8 de noviembre de 2026"
+    "lastUpdated": "Versión: 19 de noviembre de 2026"
   },
   "cookieBanner": {
     "text": "Usamos cookies para entender cómo usas el sitio y seguir mejorándolo.",

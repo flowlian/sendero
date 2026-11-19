@@ -29,9 +29,8 @@ describe('agb translations', () => {
     expect(rates(esMessages.agb)).toEqual(rates(deMessages.agb));
   });
 
-  it.each(Object.entries(locales))('has notice, scope and organizer copy in %s', (_, agb) => {
-    expect(agb.notice.title).not.toBe('');
-    expect(agb.notice.text).toContain('julian@senderobiketrails.com');
+  it.each(Object.entries(locales))('has scope and organizer copy in %s', (_, agb) => {
+    expect(agb).not.toHaveProperty('notice');
     expect(agb.scope.paragraphs).toHaveLength(deMessages.agb.scope.paragraphs.length);
     expect(agb.organizer.lines).toHaveLength(deMessages.agb.organizer.lines.length);
   });
