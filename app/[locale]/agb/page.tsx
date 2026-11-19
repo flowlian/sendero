@@ -1,5 +1,4 @@
 import { useTranslations } from 'next-intl';
-import { FaExclamationCircle } from 'react-icons/fa';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
 import { Container } from '@/components/ui/Container';
@@ -33,18 +32,6 @@ export default function AgbPage() {
 
               {/* Title */}
               <h1 className="text-h1 font-bold text-foreground">{t('title')}</h1>
-
-              {/* Provisional notice */}
-              <div
-                className="flex items-start gap-3 rounded-lg border border-secondary-oro-500 bg-accent-400 p-4 text-foreground"
-                data-testid="agb-notice"
-              >
-                <FaExclamationCircle aria-hidden="true" className="mt-1 h-5 w-5 shrink-0 text-secondary-oro-500" />
-                <div className="flex flex-col gap-1">
-                  <p className="text-body font-bold">{t('notice.title')}</p>
-                  <p className="text-body leading-relaxed">{t('notice.text')}</p>
-                </div>
-              </div>
 
               {/* Content */}
               <div className="flex flex-col gap-6 text-body text-foreground leading-relaxed">

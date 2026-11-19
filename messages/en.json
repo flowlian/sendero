@@ -795,10 +795,6 @@
     "title": "General Terms and Conditions of Travel – sendero bike trails",
     "metaTitle": "Terms & Conditions — sendero bike trails",
     "backAriaLabel": "Back to home",
-    "notice": {
-      "title": "Notice: Provisional version",
-      "text": "These terms are currently being reviewed by legal counsel and by our insurance partners, and may still change. The version that applies to you is the one you receive with your trip confirmation. This English translation is provided for convenience; only the German version is legally binding. Questions? Write to us at julian@senderobiketrails.com."
-    },
     "scope": {
       "title": "Scope",
       "paragraphs": [
@@ -884,11 +880,11 @@
           },
           {
             "number": "3.3",
-            "text": "Changes to individual travel services after the contract is concluded that sendero bike trails has not brought about in bad faith are permitted, provided they are insignificant and do not affect the overall character of the trip. These include in particular adjustments to the route, daily stages or the order of the program due to weather, trail and road conditions, the security situation or the fitness of the group, replacing an accommodation with an equivalent one, and assigning a different qualified guide. sendero bike trails informs the Traveler of any such changes clearly and comprehensibly on a durable medium before departure."
+            "text": "Changes to individual travel services after the contract is concluded that sendero bike trails has not brought about in bad faith are permitted, provided they are insignificant and do not affect the overall character of the trip. These include in particular adjustments to the route, daily stages or the order of the program due to weather, trail and road conditions, the security situation or the fitness of the group, replacing an accommodation with an equivalent one, and assigning a different qualified guide. Changes to routes, stages and guides are only permitted insofar as they do not alter the character of the booked trip or its agreed essential features. sendero bike trails informs the Traveler of any such changes clearly and comprehensibly on a durable medium before departure."
           },
           {
             "number": "3.4",
-            "text": "In the event of a significant change to an essential travel service, the Traveler may, within a reasonable period set by sendero bike trails, accept the change, withdraw from the contract free of charge, or choose an alternative trip if one is offered. If the Traveler does not respond in time, the change is deemed accepted. The notification will point this out."
+            "text": "In the event of a significant change to an essential travel service, the Traveler may, within a reasonable period set by sendero bike trails, accept the change, withdraw from the contract free of charge, or choose an alternative trip if one is offered. If the Traveler does not respond in time, the change to the essential travel service is deemed accepted. The notification will point this out."
           },
           {
             "number": "3.5",
@@ -901,7 +897,19 @@
         "clauses": [
           {
             "number": "4.1",
-            "text": "sendero bike trails waives the right to increase the trip price after the contract is concluded. The trip price confirmed at booking is a fixed price."
+            "text": "sendero bike trails reserves the right to increase the trip price after the contract is concluded to the extent that this results directly from: (a) an increase in fuel costs for local transport, (b) an increase in taxes and fees (e.g., tourism, park or entrance fees), or (c) a change in the exchange rate between the euro and the Colombian peso (COP), insofar as services are purchased in COP."
+          },
+          {
+            "number": "4.2",
+            "text": "The increase corresponds to each Traveler’s share of the additional costs. sendero bike trails notifies the Traveler of it on a durable medium, with reasons and a calculation, no later than 20 days before departure."
+          },
+          {
+            "number": "4.3",
+            "text": "The Traveler may request a reduction of the trip price if the costs listed in 4.1 decrease after the contract is concluded and this results in lower costs for sendero bike trails."
+          },
+          {
+            "number": "4.4",
+            "text": "If the price increases by more than 8%, the Traveler may, within a reasonable period set by sendero bike trails, withdraw from the contract free of charge or choose an alternative trip. If the Traveler does not respond in time, the increase is deemed accepted."
           }
         ]
       },
@@ -914,7 +922,7 @@
           },
           {
             "number": "5.2",
-            "text": "If the Traveler cancels or does not start the trip, sendero bike trails loses its claim to the trip price and may instead claim reasonable compensation. This does not apply if sendero bike trails is responsible for the cancellation, or if unavoidable and extraordinary circumstances occur at or near the destination that significantly affect the performance of the trip (e.g., a travel warning issued by the German Federal Foreign Office for the region, natural disasters, serious unrest; see also Section 8.2)."
+            "text": "If the Traveler cancels or does not start the trip, sendero bike trails loses its claim to the trip price and may instead claim reasonable compensation. This does not apply if sendero bike trails is responsible for the cancellation, or if unavoidable and extraordinary circumstances occur at or near the destination that significantly affect the performance of the trip (e.g., a travel warning issued by the German Federal Foreign Office for the region, natural disasters, serious unrest)."
           },
           {
             "number": "5.3",
@@ -996,12 +1004,12 @@
           {
             "number": "8.2",
             "lead": "Unavoidable and extraordinary circumstances",
-            "text": "If sendero bike trails is prevented from performing the trip by such circumstances (e.g., a travel warning issued by the German Federal Foreign Office for the region, natural disasters, serious unrest or security incidents, failure of the region’s infrastructure; see also Section 5.2), sendero bike trails may withdraw before departure. The cancellation is declared without undue delay once sendero bike trails becomes aware of the circumstances; payments are refunded within 14 days."
+            "text": "sendero bike trails may withdraw from the package travel contract before departure if it is prevented from performing the contract by unavoidable and extraordinary circumstances. Such circumstances exist if they are beyond its control and their consequences could not have been avoided even if all reasonable measures had been taken. The statutory requirements of Section 651h(4) of the German Civil Code (BGB) apply. In the event of withdrawal, all payments made toward the trip price are refunded without undue delay and no later than 14 days after the withdrawal."
           },
           {
             "number": "8.3",
             "lead": "Termination for conduct",
-            "text": "sendero bike trails may terminate the contract without notice if, despite a warning, the Traveler persistently disrupts the trip, repeatedly or grossly disregards the tour leader’s safety instructions, or otherwise acts in breach of contract to such an extent that immediate termination is justified. In that case, sendero bike trails retains its claim to the trip price, less saved expenses and any benefits obtained. The Traveler bears any additional costs of the return journey."
+            "text": "sendero bike trails may terminate the contract for good cause if, despite a warning, the Traveler persistently disrupts the trip or acts in breach of contract to such an extent that immediate termination is justified. No warning is required if it would obviously be futile or if immediate termination is justified by the particular circumstances. sendero bike trails retains its claim to the trip price, less saved expenses and any benefits obtained. The Traveler is liable for additional return-travel costs caused by their conduct."
           }
         ]
       },
@@ -1031,7 +1039,7 @@
           {
             "number": "9.5",
             "lead": "Exclusion from individual stages",
-            "text": "If, in the tour leader’s judgment, a Traveler is visibly overstretched, ill, injured, under the influence of alcohol or without the required equipment, they may be excluded from individual stages for their own safety and that of the group. In such cases, sendero bike trails will, where possible, offer a ride in the support vehicle to the day’s destination. Refunds are only made in accordance with Section 7."
+            "text": "If, in the tour leader’s judgment, a Traveler is visibly overstretched, ill, injured, under the influence of alcohol or without the required equipment, they may be excluded from individual stages for their own safety and that of the group. In such cases, sendero bike trails will, where possible, offer a ride in the support vehicle to the day’s destination. The decision to exclude a Traveler from a stage is made at the tour leader’s dutiful discretion, taking into account the safety of the Traveler concerned and the rest of the group. The exclusion must be based on concrete safety-related circumstances. The Traveler’s statutory claims for travel services not provided remain unaffected."
           },
           {
             "number": "9.6",
@@ -1056,7 +1064,7 @@
           {
             "number": "10.3",
             "lead": "Damage to the rental bike",
-            "text": "For damage or loss beyond normal wear and tear, the Traveler is liable for the full repair costs or current value in cases of intent or gross negligence. In cases of slight negligence, liability is limited to €300 per incident. Damage caused by falls typical of the sport during proper use is not considered negligent."
+            "text": "The Traveler is liable for loss of or damage to the rental bike that they have culpably caused beyond normal wear and tear. For damage caused by slight negligence, liability is limited to €300 per incident, provided that no essential contractual obligations have been breached."
           },
           {
             "number": "10.4",
@@ -1109,7 +1117,7 @@
           {
             "number": "12.2",
             "lead": "Mandatory",
-            "text": "Every Traveler must take out international travel health insurance that covers medical treatment in Colombia, search and rescue, and medically appropriate repatriation to Germany, and that does not exclude cycling/mountain biking. Proof (name of insurer, policy number, emergency number) must be submitted with the participant questionnaire no later than 14 days before departure. Without proof, sendero bike trails may refuse participation in the stages; Section 7 applies accordingly."
+            "text": "Every Traveler is required to have international travel health insurance that covers medical treatment in Colombia, search and rescue, and medically appropriate repatriation to Germany, and that does not exclude cycling/mountain biking. Proof (name of insurer, policy number, emergency number) must be submitted with the participant questionnaire no later than 14 days before departure. Without proof, sendero bike trails may refuse participation in the stages; Section 7 applies accordingly."
           },
           {
             "number": "12.3",
@@ -1169,7 +1177,7 @@
           },
           {
             "number": "15.2",
-            "text": "Travelers receive the photos of their trip for private, non-commercial use. Copyright remains with the photographer or with sendero bike trails."
+            "text": "Travelers receive the photos of their trip for private, non-commercial use. Passing them on to third parties for commercial use or publishing them for commercial purposes requires the prior consent of the rights holder. Copyright remains with the respective photographer. Any rights of use granted to sendero bike trails remain unaffected."
           }
         ]
       },
@@ -1187,10 +1195,6 @@
           {
             "number": "17.1",
             "text": "Claims under § 651i(3) BGB must be asserted against sendero bike trails using the contact details below, preferably in text form. Under § 651j BGB, claims become time-barred two years after the contractually agreed end of the trip."
-          },
-          {
-            "number": "17.2",
-            "text": "Claims may not be assigned to third parties who are not participants in the trip."
           }
         ]
       },
@@ -1228,7 +1232,7 @@
         "Tax number: 14/468/08405"
       ]
     },
-    "lastUpdated": "Last updated: November 8, 2026"
+    "lastUpdated": "Last updated: November 19, 2026"
   },
   "cookieBanner": {
     "text": "We use cookies to understand how you use our site and make it better.",

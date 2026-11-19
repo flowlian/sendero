@@ -795,10 +795,6 @@
     "title": "Allgemeine Reisebedingungen – sendero bike trails",
     "metaTitle": "AGB — sendero bike trails",
     "backAriaLabel": "Zurück zur Startseite",
-    "notice": {
-      "title": "Hinweis: Vorläufige Fassung",
-      "text": "Diese Reisebedingungen werden derzeit rechtlich und von unseren Versicherungspartnern geprüft und können sich noch ändern. Verbindlich ist die Fassung, die Du mit Deiner Reisebestätigung erhältst. Fragen? Schreib uns an julian@senderobiketrails.com."
-    },
     "scope": {
       "title": "Geltungsbereich",
       "paragraphs": [
@@ -884,11 +880,11 @@
           },
           {
             "number": "3.3",
-            "text": "Änderungen einzelner Reiseleistungen nach Vertragsschluss, die sendero bike trails nicht wider Treu und Glauben herbeigeführt hat, sind zulässig, soweit sie unerheblich sind und den Gesamtzuschnitt der Reise nicht beeinträchtigen. Dazu zählen insbesondere Anpassungen der Routenführung, Tagesetappen oder Reihenfolge des Programms aufgrund von Wetter, Trail- und Straßenzustand, Sicherheitslage oder Fitness der Gruppe, der Austausch einer Unterkunft durch eine gleichwertige sowie der Einsatz eines anderen qualifizierten Guides. sendero bike trails informiert den Reisenden vor Reisebeginn auf einem dauerhaften Datenträger klar und verständlich über solche Änderungen."
+            "text": "Änderungen einzelner Reiseleistungen nach Vertragsschluss, die sendero bike trails nicht wider Treu und Glauben herbeigeführt hat, sind zulässig, soweit sie unerheblich sind und den Gesamtzuschnitt der Reise nicht beeinträchtigen. Dazu zählen insbesondere Anpassungen der Routenführung, Tagesetappen oder Reihenfolge des Programms aufgrund von Wetter, Trail- und Straßenzustand, Sicherheitslage oder Fitness der Gruppe, der Austausch einer Unterkunft durch eine gleichwertige sowie der Einsatz eines anderen qualifizierten Guides. Die Änderung von Routen, Etappen und Guides ist nur zulässig, soweit dadurch der Charakter der gebuchten Reise und die vereinbarten wesentlichen Eigenschaften nicht verändert werden. sendero bike trails informiert den Reisenden vor Reisebeginn auf einem dauerhaften Datenträger klar und verständlich über solche Änderungen."
           },
           {
             "number": "3.4",
-            "text": "Bei einer erheblichen Änderung einer wesentlichen Reiseleistung kann der Reisende innerhalb einer von sendero bike trails gesetzten angemessenen Frist die Änderung annehmen, unentgeltlich vom Vertrag zurücktreten oder eine angebotene Ersatzreise wählen. Reagiert er nicht fristgerecht, gilt die Änderung als angenommen. Hierauf wird er in der Mitteilung hingewiesen."
+            "text": "Bei einer erheblichen Änderung einer wesentlichen Reiseleistung kann der Reisende innerhalb einer von sendero bike trails gesetzten angemessenen Frist die Änderung annehmen, unentgeltlich vom Vertrag zurücktreten oder eine angebotene Ersatzreise wählen. Reagiert er nicht fristgerecht, gilt die Änderung der wesentlichen Reiseleistung als angenommen. Hierauf wird er in der Mitteilung hingewiesen."
           },
           {
             "number": "3.5",
@@ -901,7 +897,19 @@
         "clauses": [
           {
             "number": "4.1",
-            "text": "sendero bike trails verzichtet darauf, den Reisepreis nach Vertragsschluss zu erhöhen. Der bei Buchung bestätigte Reisepreis ist ein Festpreis."
+            "text": "sendero bike trails behält sich vor, den Reisepreis nach Vertragsschluss zu erhöhen, soweit sich dies unmittelbar ergibt aus: (a) einer Erhöhung der Treibstoffkosten für die Beförderung vor Ort, (b) einer Erhöhung von Steuern und Abgaben (z. B. Tourismus-, Park- oder Eintrittsgebühren) oder (c) einer Änderung des Wechselkurses zwischen Euro und Kolumbianischem Peso (COP), soweit Leistungen in COP eingekauft werden."
+          },
+          {
+            "number": "4.2",
+            "text": "Die Erhöhung entspricht dem auf den einzelnen Reisenden entfallenden Anteil der Mehrkosten. sendero bike trails teilt sie spätestens 20 Tage vor Reisebeginn auf einem dauerhaften Datenträger mit Begründung und Berechnung mit."
+          },
+          {
+            "number": "4.3",
+            "text": "Der Reisende kann eine Senkung des Reisepreises verlangen, wenn sich die in 4.1 genannten Kosten nach Vertragsschluss verringern und dies zu niedrigeren Kosten für sendero bike trails führt."
+          },
+          {
+            "number": "4.4",
+            "text": "Bei einer Preiserhöhung um mehr als 8 % kann der Reisende innerhalb einer von sendero bike trails gesetzten angemessenen Frist unentgeltlich vom Vertrag zurücktreten oder eine Ersatzreise wählen. Reagiert er nicht fristgerecht, gilt die Erhöhung als angenommen."
           }
         ]
       },
@@ -914,7 +922,7 @@
           },
           {
             "number": "5.2",
-            "text": "Tritt der Reisende zurück oder tritt er die Reise nicht an, verliert sendero bike trails den Anspruch auf den Reisepreis und kann stattdessen eine angemessene Entschädigung verlangen. Dies gilt nicht, wenn sendero bike trails den Rücktritt zu vertreten hat oder am Bestimmungsort oder in dessen unmittelbarer Nähe unvermeidbare, außergewöhnliche Umstände auftreten, die die Durchführung der Reise erheblich beeinträchtigen (z. B. eine Reisewarnung des Auswärtigen Amtes für die Reiseregion, Naturkatastrophen, schwere Unruhen; siehe auch Ziffer 8.2)."
+            "text": "Tritt der Reisende zurück oder tritt er die Reise nicht an, verliert sendero bike trails den Anspruch auf den Reisepreis und kann stattdessen eine angemessene Entschädigung verlangen. Dies gilt nicht, wenn sendero bike trails den Rücktritt zu vertreten hat oder am Bestimmungsort oder in dessen unmittelbarer Nähe unvermeidbare, außergewöhnliche Umstände auftreten, die die Durchführung der Reise erheblich beeinträchtigen (z. B. eine Reisewarnung des Auswärtigen Amtes für die Reiseregion, Naturkatastrophen, schwere Unruhen)."
           },
           {
             "number": "5.3",
@@ -996,12 +1004,12 @@
           {
             "number": "8.2",
             "lead": "Unvermeidbare, außergewöhnliche Umstände",
-            "text": "Ist sendero bike trails aufgrund solcher Umstände an der Durchführung gehindert (z. B. eine Reisewarnung des Auswärtigen Amtes für die Reiseregion, Naturkatastrophen, schwere Unruhen oder Sicherheitsvorfälle, Ausfall der Infrastruktur in der Region; siehe auch Ziffer 5.2), kann sendero bike trails vor Reisebeginn zurücktreten. Der Rücktritt wird unverzüglich nach Kenntnis erklärt; Zahlungen werden innerhalb von 14 Tagen erstattet."
+            "text": "sendero bike trails kann vor Reisebeginn vom Pauschalreisevertrag zurücktreten, wenn er aufgrund unvermeidbarer, außergewöhnlicher Umstände an der Erfüllung des Vertrages gehindert ist. Solche Umstände liegen vor, wenn sie außerhalb seiner Kontrolle liegen und ihre Folgen auch dann nicht hätten vermieden werden können, wenn alle zumutbaren Vorkehrungen getroffen worden wären. Es gelten die gesetzlichen Voraussetzungen des § 651h Abs. 4 BGB. Im Falle des Rücktritts werden sämtliche auf den Reisepreis geleisteten Zahlungen unverzüglich, spätestens innerhalb von 14 Tagen nach dem Rücktritt, erstattet."
           },
           {
             "number": "8.3",
             "lead": "Kündigung aus verhaltensbedingten Gründen",
-            "text": "sendero bike trails kann den Vertrag ohne Frist kündigen, wenn der Reisende die Durchführung der Reise ungeachtet einer Abmahnung nachhaltig stört, Sicherheitsanweisungen der Reiseleitung wiederholt oder grob missachtet oder sich so vertragswidrig verhält, dass die sofortige Aufhebung gerechtfertigt ist. sendero bike trails behält dann den Anspruch auf den Reisepreis abzüglich ersparter Aufwendungen und erlangter Vorteile. Mehrkosten der Rückreise trägt der Reisende."
+            "text": "sendero bike trails kann den Vertrag aus wichtigem Grund kündigen, wenn der Reisende die Durchführung der Reise trotz Abmahnung nachhaltig stört oder sich in einem Maße vertragswidrig verhält, dass die sofortige Beendigung des Vertrags gerechtfertigt ist. Einer Abmahnung bedarf es nicht, wenn diese offensichtlich keinen Erfolg verspricht oder die sofortige Kündigung aufgrund der besonderen Umstände gerechtfertigt ist. sendero bike trails behält seinen Anspruch auf den Reisepreis unter Anrechnung ersparter Aufwendungen und erlangter Vorteile. Für durch das Verhalten des Reisenden verursachte zusätzliche Rückreisekosten haftet der Reisende."
           }
         ]
       },
@@ -1031,7 +1039,7 @@
           {
             "number": "9.5",
             "lead": "Ausschluss von einzelnen Etappen",
-            "text": "Ist ein Reisender nach Einschätzung der Reiseleitung erkennbar überfordert, erkrankt, verletzt, alkoholisiert oder ohne die vorgeschriebene Ausrüstung, kann er zu seiner und zur Sicherheit der Gruppe von einzelnen Etappen ausgeschlossen werden. sendero bike trails bietet in diesem Fall, soweit möglich, einen Transfer im Begleitfahrzeug zum Tagesziel an. Eine Erstattung erfolgt nur nach Ziffer 7."
+            "text": "Ist ein Reisender nach Einschätzung der Reiseleitung erkennbar überfordert, erkrankt, verletzt, alkoholisiert oder ohne die vorgeschriebene Ausrüstung, kann er zu seiner und zur Sicherheit der Gruppe von einzelnen Etappen ausgeschlossen werden. sendero bike trails bietet in diesem Fall, soweit möglich, einen Transfer im Begleitfahrzeug zum Tagesziel an. Die Entscheidung über den Ausschluss von einer Etappe erfolgt nach pflichtgemäßem Ermessen der Reiseleitung unter Berücksichtigung der Sicherheit des betroffenen Reisenden und der übrigen Gruppe. Der Ausschluss muss auf konkreten sicherheitsrelevanten Umständen beruhen. Gesetzliche Ansprüche des Reisenden wegen nicht erbrachter Reiseleistungen bleiben unberührt."
           },
           {
             "number": "9.6",
@@ -1056,7 +1064,7 @@
           {
             "number": "10.3",
             "lead": "Schäden am Leihrad",
-            "text": "Für Beschädigung oder Verlust, die über normalen Verschleiß hinausgehen, haftet der Reisende bei Vorsatz und grober Fahrlässigkeit in voller Höhe der Reparaturkosten bzw. des Zeitwerts. Bei leichter Fahrlässigkeit ist die Haftung auf 300 € je Schadensfall begrenzt. Schäden durch sportarttypische Stürze bei bestimmungsgemäßem Gebrauch gelten nicht als fahrlässig verursacht."
+            "text": "Der Reisende haftet für Verlust oder Schäden am Leihrad, die er schuldhaft und über die gewöhnliche Abnutzung hinaus verursacht hat. Für Schäden aufgrund leichter Fahrlässigkeit ist die Haftung auf 300 € je Schadensfall begrenzt, soweit keine wesentlichen Vertragspflichten verletzt wurden."
           },
           {
             "number": "10.4",
@@ -1109,7 +1117,7 @@
           {
             "number": "12.2",
             "lead": "Pflicht",
-            "text": "Jeder Reisende muss eine Auslandsreisekrankenversicherung abschließen, die medizinische Behandlung in Kolumbien, Bergung und Rettung sowie den medizinisch sinnvollen Rücktransport nach Deutschland einschließt und Radsport/Mountainbiken nicht ausschließt. Der Nachweis (Name des Versicherers, Policennummer, Notrufnummer) ist mit dem Teilnehmerfragebogen spätestens 14 Tage vor Reisebeginn vorzulegen. Ohne Nachweis kann sendero bike trails die Teilnahme an den Etappen verweigern; Ziffer 7 gilt entsprechend."
+            "text": "Jeder Reisende ist verpflichtet, über eine Auslandsreisekrankenversicherung zu verfügen, die medizinische Behandlung in Kolumbien, Bergung und Rettung sowie den medizinisch sinnvollen Rücktransport nach Deutschland einschließt und Radsport/Mountainbiken nicht ausschließt. Der Nachweis (Name des Versicherers, Policennummer, Notrufnummer) ist mit dem Teilnehmerfragebogen spätestens 14 Tage vor Reisebeginn vorzulegen. Ohne Nachweis kann sendero bike trails die Teilnahme an den Etappen verweigern; Ziffer 7 gilt entsprechend."
           },
           {
             "number": "12.3",
@@ -1169,7 +1177,7 @@
           },
           {
             "number": "15.2",
-            "text": "Reisende erhalten die Fotos ihrer Reise zur privaten, nicht kommerziellen Nutzung. Urheberrechte verbleiben beim Fotografen bzw. bei sendero bike trails."
+            "text": "Reisende erhalten die Fotos ihrer Reise zur privaten, nicht kommerziellen Nutzung. Eine Weitergabe an Dritte zur kommerziellen Verwendung oder eine Veröffentlichung zu kommerziellen Zwecken bedarf der vorherigen Zustimmung des Rechteinhabers. Die Urheberrechte verbleiben beim jeweiligen Fotografen. Soweit sendero bike trails Nutzungsrechte eingeräumt wurden, bleiben diese unberührt."
           }
         ]
       },
@@ -1187,10 +1195,6 @@
           {
             "number": "17.1",
             "text": "Ansprüche nach § 651i Abs. 3 BGB sind gegenüber sendero bike trails unter den unten genannten Kontaktdaten geltend zu machen, empfohlen in Textform. Ansprüche verjähren nach § 651j BGB in zwei Jahren ab dem vertraglich vorgesehenen Reiseende."
-          },
-          {
-            "number": "17.2",
-            "text": "Die Abtretung von Ansprüchen an Dritte, die nicht Reiseteilnehmer sind, ist ausgeschlossen."
           }
         ]
       },
@@ -1228,7 +1232,7 @@
         "Steuernummer: 14/468/08405"
       ]
     },
-    "lastUpdated": "Stand: 08.11.2026"
+    "lastUpdated": "Stand: 19.11.2026"
   },
   "cookieBanner": {
     "text": "Wir nutzen Cookies, um zu verstehen, wie Du unsere Seite verwendest – und sie für Dich besser zu machen.",
