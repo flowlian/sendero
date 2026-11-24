@@ -893,23 +893,19 @@
         ]
       },
       {
-        "title": "4. Modificaciones del precio",
+        "title": "4. Modificaciones del precio después de celebrado el contrato",
         "clauses": [
           {
             "number": "4.1",
-            "text": "sendero bike trails se reserva el derecho de aumentar el precio del viaje después de celebrado el contrato en la medida en que ello resulte directamente de: (a) un aumento del costo del combustible para el transporte en destino, (b) un aumento de impuestos y tasas (por ejemplo, tasas turísticas, de parques o de entrada) o (c) una variación del tipo de cambio entre el euro y el peso colombiano (COP), en la medida en que los servicios se compren en COP."
+            "text": "sendero bike trails se reserva el derecho de aumentar unilateralmente, después de celebrado el contrato, el precio del viaje indicado en la confirmación de reserva, si el aumento resulta directamente de alguno de los siguientes hechos, ocurridos solo después de celebrado el contrato e imprevisibles en el momento de celebrarlo: a) un aumento del precio del transporte de personas debido a mayores costos de combustible u otras fuentes de energía, b) un aumento de los impuestos y demás tasas sobre los servicios de viaje acordados, como tasas turísticas, o c) una variación de los tipos de cambio aplicables al viaje combinado en cuestión. En esos casos, el precio del viaje se modifica en la medida en que el aumento de los factores indicados en a) a c) repercuta en el precio por persona. Si así ocurre, sendero bike trails informará al Viajero sin demora en un soporte duradero (por ejemplo, por correo electrónico) sobre el aumento del precio y sus motivos, e incluirá el cálculo del aumento. Un aumento del precio solo es válido si cumple los requisitos aquí indicados y se comunica al Viajero a más tardar 20 días antes del inicio del viaje."
           },
           {
             "number": "4.2",
-            "text": "El aumento corresponde a la parte de los costos adicionales que le toca a cada Viajero. sendero bike trails lo comunica a más tardar 20 días antes del inicio del viaje en un soporte duradero, con la justificación y el cálculo."
+            "text": "A la inversa, el Viajero puede exigir una reducción del precio del viaje si, y en la medida en que, los precios, tasas o tipos de cambio indicados en la cláusula 4.1 a) a c) han variado después de celebrado el contrato y antes del inicio del viaje, y esto le genera a sendero bike trails costos menores. Si el Viajero ha pagado más del importe que resulta adeudado, sendero bike trails debe reembolsarle la diferencia. sendero bike trails puede descontar del importe a reembolsar los gastos administrativos en que haya incurrido y, si el Viajero lo solicita, debe demostrar a cuánto ascienden esos gastos."
           },
           {
             "number": "4.3",
-            "text": "El Viajero puede exigir una reducción del precio si los costos indicados en 4.1 disminuyen después de celebrado el contrato y esto le genera a sendero bike trails costos menores."
-          },
-          {
-            "number": "4.4",
-            "text": "Si el precio aumenta más del 8 %, el Viajero puede, dentro de un plazo razonable fijado por sendero bike trails, desistir del contrato sin costo o elegir un viaje sustitutivo. Si no responde a tiempo, se considera aceptado el aumento."
+            "text": "Si el aumento de precio previsto en la cláusula 4.1 supera el 8 % del precio del viaje, sendero bike trails no puede realizarlo de forma unilateral. Sin embargo, sendero bike trails puede ofrecer al Viajero un aumento de precio equivalente y exigirle que, dentro de un plazo razonable fijado por sendero bike trails, acepte la oferta o declare su desistimiento del contrato. La oferta de aumento de precio no puede presentarse más tarde de 20 días antes del inicio del viaje. Una vez vencido el plazo fijado por sendero bike trails, la oferta de aumento de precio se considera aceptada."
           }
         ]
       },
@@ -1232,7 +1228,7 @@
         "Número de identificación fiscal (Steuernummer): 14/468/08405"
       ]
     },
-    "lastUpdated": "Versión: 19 de noviembre de 2026"
+    "lastUpdated": "Versión: 23 de noviembre de 2026"
   },
   "cookieBanner": {
     "text": "Usamos cookies para entender cómo usas el sitio y seguir mejorándolo.",

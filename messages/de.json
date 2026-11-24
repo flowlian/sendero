@@ -893,23 +893,19 @@
         ]
       },
       {
-        "title": "4. Preisänderungen",
+        "title": "4. Preisänderungen nach Vertragsschluss",
         "clauses": [
           {
             "number": "4.1",
-            "text": "sendero bike trails behält sich vor, den Reisepreis nach Vertragsschluss zu erhöhen, soweit sich dies unmittelbar ergibt aus: (a) einer Erhöhung der Treibstoffkosten für die Beförderung vor Ort, (b) einer Erhöhung von Steuern und Abgaben (z. B. Tourismus-, Park- oder Eintrittsgebühren) oder (c) einer Änderung des Wechselkurses zwischen Euro und Kolumbianischem Peso (COP), soweit Leistungen in COP eingekauft werden."
+            "text": "sendero bike trails behält sich vor, den in der Reisebestätigung genannten Reisepreis nach Vertragsschluss einseitig zu erhöhen, wenn die Erhöhung des Reisepreises sich unmittelbar aus einer tatsächlich erst nach Vertragsschluss erfolgten und bei Abschluss des Vertrages nicht vorhersehbaren a) Erhöhung des Preises für die Beförderung von Personen aufgrund höherer Kosten für Treibstoff oder andere Energieträger, b) einer Erhöhung der Steuern und sonstigen Abgaben für vereinbarte Reiseleistungen, wie Touristenabgaben, oder c) einer Änderung der für die betreffende Pauschalreise geltenden Wechselkurse ergibt. Der Reisepreis wird in den genannten Fällen in dem Umfang geändert, wie sich die Erhöhung der in a) bis c) genannten Faktoren pro Person auf den Reisepreis auswirkt. Sollte dies der Fall sein, wird sendero bike trails den Reisenden umgehend auf einem dauerhaften Datenträger (z. B. per E-Mail) über die Preiserhöhung und deren Gründe unterrichten und hierbei die Berechnung der Preiserhöhung mitteilen. Eine Preiserhöhung ist nur wirksam, wenn sie den hier genannten Anforderungen entspricht und die Unterrichtung des Reisenden nicht später als 20 Tage vor Reisebeginn erfolgt."
           },
           {
             "number": "4.2",
-            "text": "Die Erhöhung entspricht dem auf den einzelnen Reisenden entfallenden Anteil der Mehrkosten. sendero bike trails teilt sie spätestens 20 Tage vor Reisebeginn auf einem dauerhaften Datenträger mit Begründung und Berechnung mit."
+            "text": "Der Reisende kann im umgekehrten Fall eine Senkung des Reisepreises verlangen, wenn und soweit sich die in Ziff. 4.1 unter a) bis c) genannten Preise, Abgaben oder Wechselkurse nach Vertragsschluss und vor Reisebeginn geändert haben und dies zu niedrigeren Kosten für sendero bike trails führt. Hat der Reisende mehr als den hiernach geschuldeten Betrag gezahlt, ist der Mehrbetrag von sendero bike trails zu erstatten. sendero bike trails darf von dem zu erstattenden Mehrbetrag die ihm entstandenen Verwaltungsausgaben abziehen und hat dem Reisenden auf dessen Verlangen nachzuweisen, in welcher Höhe Verwaltungsausgaben entstanden sind."
           },
           {
             "number": "4.3",
-            "text": "Der Reisende kann eine Senkung des Reisepreises verlangen, wenn sich die in 4.1 genannten Kosten nach Vertragsschluss verringern und dies zu niedrigeren Kosten für sendero bike trails führt."
-          },
-          {
-            "number": "4.4",
-            "text": "Bei einer Preiserhöhung um mehr als 8 % kann der Reisende innerhalb einer von sendero bike trails gesetzten angemessenen Frist unentgeltlich vom Vertrag zurücktreten oder eine Ersatzreise wählen. Reagiert er nicht fristgerecht, gilt die Erhöhung als angenommen."
+            "text": "Übersteigt die in Ziff. 4.1 vorbehaltene Preiserhöhung 8 % des Reisepreises, kann sendero bike trails sie nicht einseitig vornehmen. sendero bike trails kann indes dem Reisenden eine entsprechende Preiserhöhung anbieten und verlangen, dass er innerhalb einer von sendero bike trails bestimmten angemessenen Frist, das Angebot zur Preiserhöhung annimmt oder seinen Rücktritt vom Vertrag erklärt. Das Angebot zu einer Preiserhöhung kann nicht später als 20 Tage vor Reisebeginn unterbreitet werden. Nach Ablauf der von sendero bike trails genannten Frist gilt das Angebot zur Preiserhöhung als angenommen."
           }
         ]
       },
@@ -1232,7 +1228,7 @@
         "Steuernummer: 14/468/08405"
       ]
     },
-    "lastUpdated": "Stand: 19.11.2026"
+    "lastUpdated": "Stand: 23.11.2026"
   },
   "cookieBanner": {
     "text": "Wir nutzen Cookies, um zu verstehen, wie Du unsere Seite verwendest – und sie für Dich besser zu machen.",

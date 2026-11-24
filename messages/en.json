@@ -893,23 +893,19 @@
         ]
       },
       {
-        "title": "4. Price changes",
+        "title": "4. Price changes after conclusion of the contract",
         "clauses": [
           {
             "number": "4.1",
-            "text": "sendero bike trails reserves the right to increase the trip price after the contract is concluded to the extent that this results directly from: (a) an increase in fuel costs for local transport, (b) an increase in taxes and fees (e.g., tourism, park or entrance fees), or (c) a change in the exchange rate between the euro and the Colombian peso (COP), insofar as services are purchased in COP."
+            "text": "sendero bike trails reserves the right to unilaterally increase the trip price stated in the booking confirmation after the contract is concluded if the increase results directly from one of the following, occurring only after the contract was concluded and not foreseeable when it was concluded: a) an increase in the price of passenger transport due to higher costs for fuel or other sources of energy, b) an increase in taxes and other levies on agreed travel services, such as tourist taxes, or c) a change in the exchange rates applicable to the package trip in question. In these cases, the trip price is changed to the extent that the increase in the factors listed in a) to c) affects the trip price per person. Should this be the case, sendero bike trails will inform the Traveler without delay on a durable medium (e.g., by email) of the price increase and the reasons for it, and will provide the calculation of the increase. A price increase is only effective if it meets the requirements set out here and the Traveler is informed no later than 20 days before departure."
           },
           {
             "number": "4.2",
-            "text": "The increase corresponds to each Traveler’s share of the additional costs. sendero bike trails notifies the Traveler of it on a durable medium, with reasons and a calculation, no later than 20 days before departure."
+            "text": "Conversely, the Traveler may request a reduction of the trip price if and to the extent that the prices, levies or exchange rates listed in Section 4.1 a) to c) have changed after the contract was concluded and before departure, and this results in lower costs for sendero bike trails. If the Traveler has paid more than the amount owed as a result, sendero bike trails must refund the difference. sendero bike trails may deduct the administrative expenses it has incurred from the amount to be refunded and must, at the Traveler’s request, provide evidence of the amount of those administrative expenses."
           },
           {
             "number": "4.3",
-            "text": "The Traveler may request a reduction of the trip price if the costs listed in 4.1 decrease after the contract is concluded and this results in lower costs for sendero bike trails."
-          },
-          {
-            "number": "4.4",
-            "text": "If the price increases by more than 8%, the Traveler may, within a reasonable period set by sendero bike trails, withdraw from the contract free of charge or choose an alternative trip. If the Traveler does not respond in time, the increase is deemed accepted."
+            "text": "If the price increase reserved in Section 4.1 exceeds 8% of the trip price, sendero bike trails may not make it unilaterally. However, sendero bike trails may offer the Traveler a corresponding price increase and require the Traveler, within a reasonable period set by sendero bike trails, either to accept the offer or to withdraw from the contract. The offer of a price increase cannot be made later than 20 days before departure. Once the period set by sendero bike trails has expired, the offer of a price increase is deemed accepted."
           }
         ]
       },
@@ -1232,7 +1228,7 @@
         "Tax number: 14/468/08405"
       ]
     },
-    "lastUpdated": "Last updated: November 19, 2026"
+    "lastUpdated": "Last updated: November 23, 2026"
   },
   "cookieBanner": {
     "text": "We use cookies to understand how you use our site and make it better.",
